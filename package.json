@@ -4,8 +4,7 @@
   "description": "A tender color scheme for vim and its plugins",
   "main": "index.js",
   "scripts": {
-    "test": "estilo check tender.yaml",
-    "build": "estilo tender.yaml colors/tender.vim"
+    "build": "estilo estilo/tender.yaml colors/tender.vim"
   },
   "keywords": [
     "vim",
@@ -21,6 +20,6 @@
   "author": "Jacobo Tabernero http://jacoborus.codes",
   "license": "MIT",
   "devDependencies": {
-    "estilo": "^0.3.2"
+    "estilo": "^0.4.0"
   }
 }
