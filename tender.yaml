@@ -1,0 +1,253 @@
+info:
+  author: 'Jacobo Tabernero http://jacoborus.codes'
+  scheme: 'tender'
+  background: 'dark'
+  description: 'A tender color scheme'
+  license: 'MIT'
+  version: '0.0.1'
+colors:
+  straw: '#d1b680'
+  cherry: '#f43753'
+  darkcherry: '#ae1d32'
+  sky: '#abd9ec'
+  ocean: '#66afce'
+  willow: '#bec468'
+  sushi: '#898f21'
+  mango: '#f7bf46'
+  darkmango: '#b77d00'
+  amarillo: '#e9edb2'
+  crema: '#e6d7b9'
+  # grises
+  blanco: '#ffffff'
+  texto: '#eeeeee'
+  grisclaro: '#bbbbbb'
+  gris: '#999999'
+  grisoscuro: '#666666'
+  plomo: '#444444'
+  fondocursor: '#323232'
+  fondo: '#282828'
+  darkest: '#080808'
+hilinks:
+  ### Vim editor colors
+  ColorColumn: ''
+  Conceal: ''
+  Cursor: ''
+  CursorIM: ''
+  CursorColumn: '- fondocursor'
+  CursorLine: '- fondocursor'
+  CursorLineNr: 'ocean - '
+  Directory: 'sky -'
+  DiffAdd: ''
+  DiffChange: ''
+  DiffDelete: ''
+  DiffText: ''
+  ErrorMsg: 'cherry - r'
+  VertSplit: 'fondo fondo'
+  Folded: ''
+  FoldColumn: ''
+  SignColumn: ''
+  IncSearch: '- amarillo'
+  LineNr: 'plomo -'
+  MatchParen: 'cherry - b'
+  ModeMsg: ''
+  MoreMsg: ''
+  NonText: 'plomo -'
+  Normal: 'texto fondo'
+  PMenu: 'fondo ocean'
+  PMenuSel: 'fondo willow'
+  PmenuSbar: ''
+  PmenuThumb: ''
+  Question: 'willow -'
+  Search: 'amarillo - u'
+  SpecialKey: ''
+  SpellBad: ''
+  SpellLocal: ''
+  SpellCap: ''
+  SpellRare: ''
+  StatusLine: ''
+  StatusLineNC: ''
+  TabLine: ''
+  TabLineFill: ''
+  TabLineSel: ''
+  Title: 'sky - b'
+  Visual: '- darkest'
+  VisualNOS: ''
+  WarningMsg: 'cherry -'
+  WildMenu: ''
+  ### Standard syntax highlighting
+  # Comment
+  Comment: 'grisoscuro -'
+  # Constant
+  Constant: 'mango -'
+  String: 'straw -' # Constant
+  Character: 'mango -' # Constant
+  Boolean: 'mango -' # Constant
+  Number: 'mango -' # Constant
+  Float: 'mango -' # Constant
+  # Identifier
+  Identifier: 'sky -'
+  Function: 'sky -' # Identifier
+  # Statement
+  Statement: 'sky -'
+  Conditional: 'willow -' # Statement
+  Repeat: '' # Statement
+  Label: '' # Statement
+  Operator: 'cherry -' # Statement
+  Keyword: '' # Statement
+  Exception: 'cherry -' # Statement
+  # PreProc
+  PreProc: 'willow -'
+  Include: '' # PreProc
+  Define: '' # PreProc
+  Macro: '' # PreProc
+  PreCondit: '' # PreProc
+  # Type
+  Type: 'ocean - '
+  StorageClass: '' # Type
+  Structure: '' # Type
+  Typedef: '' # Type
+  # Special
+  Special: 'ocean -'
+  SpecialChar: '' # Special
+  Tag: '' # Special
+  Delimiter: '' # Special
+  SpecialComment: '' # Special
+  Debug: '' # Special
+  #Underlined
+  Underlined: ''
+  #Ignore
+  Ignore: ''
+  # Error
+  Error: 'texto cherry'
+  # Todo
+  Todo: ''
+  # help
+  helpNote: 'cherry - b'
+  helpHeadline: 'ocean - b'
+  helpStar: '' # Ignore
+  helpHyperTextEntry: '' # helpStar
+  helpHyperTextJump: '' # Identifier
+  helpSectionDelim: '' # PreProc
+  #### languages
+  # vimScript
+  vimError: 'texto cherry'
+  vimCommentTitle: 'sushi -'  # PreProc
+  vimComment: ''  # Comment
+  vimString: ''  # String
+  vimNumber: ''  # Number
+  vimOper: ''  # Operator
+  vimVar: ''  # Identifier
+  vimCommand: ''  # Statement
+  vimNorm: ''  # vimCommand
+  vimNormCmds: ''  # no link
+  vimIsCommand: ''  # no link
+  vimParenSep: ''  # Delimiter > Special
+  # C highlighting
+  cOperator: ''
+  cPreCondit: ''
+  # CSS highlighting
+  cssBraces: ''
+  cssClassName: ''
+  cssColor: ''
+  # Diff highlighting
+  DiffAdded: '' # DiffAdd
+  DiffFile: ''
+  DiffNewFile: ''
+  DiffLine: ''
+  DiffRemoved: '' # DiffDelete
+  # Git highlighting
+  gitCommitOverflow: ''
+  gitCommitSummary: ''
+  # HTML highlighting
+  htmlBold: ''
+  htmlItalic: ''
+  htmlEndTag: ''
+  htmlTag: ''
+  # JavaScript highlighting
+  javaScriptBraces: 'sky -'
+  javaScriptBoolean: '' # Boolean
+  javaScriptConditional: '' # Conditional
+  javaScriptExceptions: '' # Special
+  javaScriptFuncArg: 'mango -'
+  javaScriptFuncComma: '' # Operator
+  javaScriptFuncKeyword: '' # Function
+  javaScriptFuncExp: '' # Title
+  javaScriptIdentifier: '' # Identifier
+  javaScriptLogicSymbols: '' # Operator
+  javaScriptNumber: '' # Number
+  javaScriptObjectKey: '' # No link
+  javaScriptOperator: 'willow -' # no link
+  javaScriptOpSymbols: 'cherry -' # no link
+  javaScriptParens: 'sky -' # no link
+  javaScriptReserved: '' # Keyword > Statement
+  javaScriptStatement: '' # Statement
+  javaScriptString: '' # String
+  javaScriptTemplateString: '' # String
+  # Markdown highlighting
+  markdownCode: ''
+  markdownError: ''
+  markdownCodeBlock: ''
+  markdownHeadingDelimiter: ''
+  # PHP highlighting
+  phpMemberSelector: ''
+  phpComparison: ''
+  phpParent: ''
+  # Python highlighting
+  pythonOperator: ''
+  pythonRepeat: ''
+  # Ruby highlighting
+  rubyAttribute: ''
+  rubyConstant: ''
+  rubyInterpolation: ''
+  rubyInterpolationDelimiter: ''
+  rubyRegexp: ''
+  rubySymbol: ''
+  rubyStringDelimiter: ''
+  # SASS highlighting
+  sassidChar: ''
+  sassClassChar: ''
+  sassInclude: ''
+  sassMixing: ''
+  sassMixinName: ''
+  # Signify highlighting
+  SignifySignAdd: ''
+  SignifySignChange: ''
+  SignifySignDelete: ''
+  # Plugins
+  # GitGutter airblade/vim-gitgutter
+  GitGutterAdd: 'willow -'
+  GitGutterChange: 'ocean -'
+  GitGutterDelete: 'cherry -'
+  GitGutterChangeDelete: 'cherry -'
+  # NERDTree scrooloose/nerdtree
+  NERDTreeClosable: 'mango -'
+  NERDTreeDir: '' # link directory
+  NERDTreeDirSlash: ''
+  NERDTreeExecFile: ''
+  NERDTreeHelp: '' # no link
+  NERDTreeHelpCommand: '' # no link
+  NERDTreeHelpKey: '' # Identifier
+  NERDTreeHelpTitle: '' # Macro > PreProc
+  NERDTreeIgnore: '' # Ignore
+  NERDTreeOpenable: 'cherry -'
+  NERDTreeToggleOn: '' # Question
+  NERDTreeToggleOff: '' # WarningMsg
+  # ntpeters/vim-better-whitespace
+  ExtraWhitespace: 'plomo plomo'
+  # CursorLineNr
+  yamlBlockMappingKey: '' # Identifier
+  yamlFlowCollection: '' # no link
+  yamlFlowIndicator: '' # Special
+  yamlFlowString: 'straw -' # no link
+  yamlFlowStringDelimiter: 'mango -' # no link
+  yamlInteger: '' # Number
+  yamlKeyFlowMapping: '' # yamlFlowIndicator > Special
+  yamlKeyValueDelimiter: 'cherry -' # no link
+  # vim-plug
+  plugName: '' # Label > Statement
+  plugDash: '' # Special
+  plugStar: '' # Boolean
+  plugNumber: '' # Number
+  plug1: '' # Title
+  plug2: '' # Repeat > Statement
+  plugBracket: '' # Structure > Type

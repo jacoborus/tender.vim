@@ -1,0 +1,26 @@
+{
+  "name": "tender",
+  "version": "0.0.1",
+  "description": "A tender color scheme for vim and its plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "estilo check tender.yaml",
+    "build": "estilo tender.yaml colors/tender.vim"
+  },
+  "keywords": [
+    "vim",
+    "color",
+    "scheme",
+    "scheme",
+    "colors",
+    "airline",
+    "lightline",
+    "gitgutter",
+    "nerdtree"
+  ],
+  "author": "Jacobo Tabernero http://jacoborus.codes",
+  "license": "MIT",
+  "devDependencies": {
+    "estilo": "^0.3.2"
+  }
+}
