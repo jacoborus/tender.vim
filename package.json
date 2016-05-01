@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "A tender color scheme for vim and its plugins",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "build": "estilo estilo/tender.yaml colors/tender.vim"
   },

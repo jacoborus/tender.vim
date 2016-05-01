@@ -12,14 +12,13 @@ Features:
   - javascript
   - yaml
   - NERDTree
+  - GitGutter
+  - pangloss/javascript
 - coming soon:
   - CSS
   - HTML
+  - json
   - vimScript
   - Python
   - PHP
   - markdown
-  - json
-  - Fugitive
-  - GitGutter
-  - pangloss/javascript
