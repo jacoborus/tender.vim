@@ -17,10 +17,15 @@ if has("gui_running")
   set background=dark
 endif
 
-hi CursorColumn guifg=NONE ctermfg=NONE guibg=#323232 ctermbg=236 gui=NONE cterm=NONE
+hi ColorColumn guifg=NONE ctermfg=NONE guibg=#323232 ctermbg=236 gui=NONE cterm=NONE
+hi link CursorColumn CursorLine
 hi CursorLine guifg=NONE ctermfg=NONE guibg=#323232 ctermbg=236 gui=NONE cterm=NONE
 hi CursorLineNr guifg=#66afce ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Directory guifg=#abd9ec ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi DiffAdd guifg=#eeeeee ctermfg=255 guibg=#898f21 ctermbg=100 gui=NONE cterm=NONE
+hi DiffChange guifg=#eeeeee ctermfg=255 guibg=#66afce ctermbg=74 gui=NONE cterm=NONE
+hi DiffDelete guifg=#282828 ctermfg=235 guibg=#f43753 ctermbg=203 gui=NONE cterm=NONE
+hi DiffText guifg=#66afce ctermfg=74 guibg=#eeeeee ctermbg=255 gui=bold cterm=bold
 hi ErrorMsg guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=reverse cterm=reverse
 hi VertSplit guifg=#282828 ctermfg=235 guibg=#282828 ctermbg=235 gui=NONE cterm=NONE
 hi IncSearch guifg=NONE ctermfg=NONE guibg=#e9edb2 ctermbg=193 gui=NONE cterm=NONE
@@ -33,7 +38,7 @@ hi PMenuSel guifg=#282828 ctermfg=235 guibg=#bec468 ctermbg=149 gui=NONE cterm=N
 hi Question guifg=#bec468 ctermfg=149 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Search guifg=#e9edb2 ctermfg=193 guibg=NONE ctermbg=NONE gui=underline cterm=underline
 hi Title guifg=#abd9ec ctermfg=153 guibg=NONE ctermbg=NONE gui=bold cterm=bold
-hi Visual guifg=NONE ctermfg=NONE guibg=#080808 ctermbg=232 gui=NONE cterm=NONE
+hi Visual guifg=NONE ctermfg=NONE guibg=#0b0b0b ctermbg=232 gui=NONE cterm=NONE
 hi WarningMsg guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Comment guifg=#666666 ctermfg=242 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Constant guifg=#f7bf46 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
