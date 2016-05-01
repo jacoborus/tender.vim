@@ -20,6 +20,6 @@
   "author": "Jacobo Tabernero http://jacoborus.codes",
   "license": "MIT",
   "devDependencies": {
-    "estilo": "^0.4.0"
+    "estilo": "^0.4.1"
   }
 }
