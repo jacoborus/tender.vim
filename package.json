@@ -5,7 +5,7 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "build": "estilo estilo/tender.yaml colors/tender.vim"
+    "build": "node node_modules/estilo/scripts/build.js"
   },
   "keywords": [
     "vim",
@@ -20,7 +20,7 @@
   ],
   "author": "Jacobo Tabernero http://jacoborus.codes",
   "license": "MIT",
-  "devDependencies": {
-    "estilo": "^0.4.3"
+  "dependencies": {
+    "estilo": "^0.6.0"
   }
 }

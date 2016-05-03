@@ -1,0 +1,27 @@
+info: |
+  Fill this with info about your color scheme.
+  You can write multiple lines here
+background: 'dark'
+colors:
+  straw: '#d1b680'
+  cherry: '#f43753'
+  darkcherry: '#ae1d32'
+  sky: '#abd9ec'
+  ocean: '#66afce'
+  willow: '#bec468'
+  sushi: '#898f21'
+  mango: '#f7bf46'
+  darkmango: '#b77d00'
+  amarillo: '#e9edb2'
+  crema: '#e6d7b9'
+  # grises
+  blanco: '#ffffff'
+  texto: '#eeeeee'
+  grisclaro: '#bbbbbb'
+  gris: '#999999'
+  grisoscuro: '#666666'
+  plomo: '#444444'
+  fondocursor: '#323232'
+  fondo: '#282828'
+  darker: '#1d1d1d'
+  darkest: '#0b0b0b'

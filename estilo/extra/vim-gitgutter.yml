@@ -1,0 +1,5 @@
+# GitGutter airblade/vim-gitgutter
+GitGutterAdd: 'willow'
+GitGutterChange: 'ocean'
+GitGutterDelete: 'cherry'
+GitGutterChangeDelete: 'cherry'
