@@ -55,6 +55,7 @@ hi Title guifg=#abd9ec ctermfg=153 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi Visual guifg=NONE ctermfg=NONE guibg=#0b0b0b ctermbg=232 gui=NONE cterm=NONE
 hi WarningMsg guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi WildMenu guifg=#282828 ctermfg=235 guibg=#bec468 ctermbg=149 gui=bold cterm=bold
+hi Comment guifg=#666666 ctermfg=242 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Constant guifg=#f7bf46 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi String guifg=#d1b680 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Character guifg=#f7bf46 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
