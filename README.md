@@ -7,7 +7,7 @@ A tender color scheme for Vim and lightline. Work in progress
 
 ![color palette](https://cloud.githubusercontent.com/assets/829859/15333419/dd9bae42-1c69-11e6-840f-9ac7470b43d0.png)
 
-Features:
+## Features:
 
 - dark background
 - tender colors
@@ -19,3 +19,34 @@ Features:
   - GitGutter
   - pangloss/javascript
   - ... more coming soon
+
+## Installation
+
+Install manually or use a package manager:
+
+```viml
+" vim-plug
+Plug 'jacoborus/tender'
+" NeoBundle
+NeoBundle 'jacoborus/tender'
+" Vundle
+Plugin 'jacoborus/tender'
+```
+
+Once your plugin is installed you can set the color scheme in your `.vimrc` or `init.vim`
+
+```viml
+colorscheme tender
+```
+
+**Tender** includes a [lightline](https://github.com/itchyny/lightline.vim) theme, to enable it add the next line to your vim config:
+
+```viml
+let g:lightline = { 'colorscheme': 'tender' }
+```
+
+<br><br>
+
+---
+
+© 2016 [jacoborus](https://github.com/jacoborus) - Released under [MIT License](https://raw.github.com/jacoborus/nanobar/master/LICENSE)
