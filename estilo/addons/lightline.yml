@@ -1,0 +1,27 @@
+# normal
+normal.left: 'fondo ocean fondo sky' # 2 items
+normal.right: 'grisoscuro grisclaro grisclaro grisoscuro' # 2 items
+normal.middle: 'grisclaro plomo' # 1 item
+normal.error: 'fondo cherry' # 1 item
+normal.warning: 'fondo mango' # 1 item
+# inactive
+inactive.left:  'grisclaro grisoscuro' # 2 items
+inactive.right: 'grisclaro grisoscuro grisclaro grisoscuro' # 2 items, linking to normal.right by default
+inactive.middle: '' # 1 item, linking to normal.middle by default
+# insert
+insert.left: 'fondo sushi fondo willow' # 2 items
+insert.right: '' # 2 items, linking to normal.right by default
+insert.middle: '' # 1 items, linking to normal.middle by default
+# replace
+replace.left: 'fondo darkcherry fondo cherry' # 2 items
+replace.right: '' # 2 items, linking to normal.right by default
+replace.middle: '' # 1 items, linking to normal.middle by default
+# visual
+visual.left: 'fondo darkmango fondo mango' # 2 items
+visual.right: '' # 2 items, linking to normal.right by default
+visual.middle: '' # 1 items, linking to normal.middle by default
+# tabline
+tabline.left: 'grisclaro grisoscuro' # 1 item
+tabline.tabsel: 'texto fondo' # 1 item
+tabline.middle: 'grisoscuro plomo' # 1 item
+tabline.right: 'grisclaro grisoscuro' # 1 item

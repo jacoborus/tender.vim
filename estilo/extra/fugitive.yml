@@ -1,10 +1,10 @@
-FugitiveblameBoundary: '* Keyword'
-FugitiveblameHash: '* Identifier'
-FugitiveblameUncommitted: '* Ignore'
-FugitiveblameTime: '* PreProc'
-FugitiveblameLineNumber: '* Number'
-FugitiveblameOriginalFile: '* String'
-FugitiveblameOriginalLineNumber: '* '
-FugitiveblameShort: '* FugitiveblameDelimiter'
-FugitiveblameDelimiter: '* Delimiter'
-FugitiveblameNotCommittedYet: '* Comment'
+FugitiveblameBoundary: '' # Keyword
+FugitiveblameHash: '' # Identifier
+FugitiveblameUncommitted: '' # Ignore
+FugitiveblameTime: '' # PreProc
+FugitiveblameLineNumber: '' # Number
+FugitiveblameOriginalFile: '' # String
+FugitiveblameOriginalLineNumber: '' #
+FugitiveblameShort: '' # FugitiveblameDelimiter
+FugitiveblameDelimiter: '' # Delimiter
+FugitiveblameNotCommittedYet: '' # Comment

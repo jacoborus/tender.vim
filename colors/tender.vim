@@ -1,5 +1,5 @@
 "
-" tender v0.0.1
+" tender v0.1.0
 " A tender color scheme for vim and its plugins
 " author: Jacobo Tabernero http://jacoborus.codes
 " license: MIT

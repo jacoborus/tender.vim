@@ -1,19 +1,19 @@
-jsonPadding: '* Operator'
-jsonString: '* String'
-jsonTest: '* Label'
-jsonEscape: '* Special'
-jsonNumber: '* Number'
-jsonBraces: '* Delimiter'
-jsonNull: '* Function'
-jsonBoolean: '* Boolean'
-jsonKeyword: '* Label'
-jsonNumError: '* Error'
-jsonCommentError: '* Error'
-jsonSemicolonError: '* Error'
-jsonTrailingCommaError: '* Error'
-jsonMissingCommaError: '* Error'
-jsonStringSQError: '* Error'
-jsonNoQuotesError: '* Error'
-jsonTripleQuotesError: '* Error'
-jsonQuote: '* Quote'
-jsonNoise: '* Noise'
+jsonPadding: '' # Operator
+jsonString: '' # String
+jsonTest: '' # Label
+jsonEscape: '' # Special
+jsonNumber: '' # Number
+jsonBraces: '' # Delimiter
+jsonNull: '' # Function
+jsonBoolean: '' # Boolean
+jsonKeyword: '' # Label
+jsonNumError: '' # Error
+jsonCommentError: '' # Error
+jsonSemicolonError: '' # Error
+jsonTrailingCommaError: '' # Error
+jsonMissingCommaError: '' # Error
+jsonStringSQError: '' # Error
+jsonNoQuotesError: '' # Error
+jsonTripleQuotesError: '' # Error
+jsonQuote: '' # Quote
+jsonNoise: '' # Noise
