@@ -17,6 +17,7 @@ colors:
   # grises
   blanco: '#ffffff'
   texto: '#eeeeee'
+  ccc: '#c9c9c9'
   grisclaro: '#bbbbbb'
   gris: '#999999'
   grisoscuro: '#666666'

@@ -1,5 +1,5 @@
 "
-" tender v0.1.1
+" tender v0.1.2
 " A tender color scheme for vim and its plugins
 " author: Jacobo Tabernero http://jacoborus.codes
 " license: MIT
@@ -73,6 +73,13 @@ hi Type guifg=#66afce ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Special guifg=#66afce ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Error guifg=#eeeeee ctermfg=255 guibg=#f43753 ctermbg=203 gui=NONE cterm=NONE
 hi Todo guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=bold cterm=bold
+hi gitcommitBranch guifg=#66afce ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi gitcommitDiscardedType guifg=#ae1d32 ctermfg=125 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi gitcommitSelectedType guifg=#898f21 ctermfg=100 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi gitcommitHeader guifg=#abd9ec ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi gitcommitUntrackedFile guifg=#ae1d32 ctermfg=125 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi gitcommitDiscardedFile guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi gitcommitSelectedFile guifg=#bec468 ctermfg=149 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi helpHeadline guifg=#66afce ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi helpNote guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi javaScriptOperator guifg=#bec468 ctermfg=149 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -81,10 +88,19 @@ hi markdownH1 guifg=#abd9ec ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=N
 hi markdownHeadingRule guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi markdownHeadingDelimiter guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi markdownListMarker guifg=#f7bf46 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi markdownBlockquote guifg=#f7bf46 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi markdownRule guifg=#bec468 ctermfg=149 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi markdownLinkText guifg=#bec468 ctermfg=149 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi markdownLinkTextDelimiter guifg=#abd9ec ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi markdownLinkDelimiter guifg=#abd9ec ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi markdownIdDeclaration guifg=#898f21 ctermfg=100 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi markdownAutomaticLink guifg=#66afce ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi markdownUrl guifg=#66afce ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi markdownUrlTitleDelimiter guifg=#f7bf46 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi markdownUrlTitle guifg=#d1b680 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi markdownUrlDelimiter guifg=#f7bf46 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi markdownUrlTitleDelimiter guifg=#b77d00 ctermfg=136 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi markdownCodeDelimiter guifg=#66afce ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi markdownCode guifg=#d1b680 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi markdownEscape guifg=#66afce ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi markdownError guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi vimCommentTitle guifg=#898f21 ctermfg=100 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -92,10 +108,16 @@ hi vimError guifg=#eeeeee ctermfg=255 guibg=#f43753 ctermbg=203 gui=NONE cterm=N
 hi yamlFlowString guifg=#d1b680 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi yamlFlowStringDelimiter guifg=#f7bf46 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi yamlKeyValueDelimiter guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi NERDTreeHelp guifg=#c9c9c9 ctermfg=251 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi NERDTreeHelpKey guifg=#bec468 ctermfg=149 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi NERDTreeHelpCommand guifg=#f7bf46 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi NERDTreeHelpTitle guifg=#abd9ec ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi NERDTreeUp guifg=#bec468 ctermfg=149 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi NERDTreeCWD guifg=#66afce ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NERDTreeOpenable guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NERDTreeClosable guifg=#f7bf46 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi GitGutterAdd guifg=#bec468 ctermfg=149 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi GitGutterChange guifg=#66afce ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi GitGutterChange guifg=#abd9ec ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi GitGutterDelete guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi GitGutterChangeDelete guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi javaScriptOpSymbols guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

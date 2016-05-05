@@ -15,6 +15,7 @@ A tender color scheme for Vim and vim-lightline. Work in progress
 - lightline theme
 - extra colorization for languages and plugins:
   - javascript
+  - markdown
   - yaml
   - NERDTree
   - GitGutter
@@ -34,7 +35,7 @@ NeoBundle 'jacoborus/tender'
 Plugin 'jacoborus/tender'
 ```
 
-Once your plugin is installed you can set the color scheme in your `.vimrc` or `init.vim`
+Once your plugin is installed you can set the color scheme in your `.vimrc` or `init.vim` 
 
 ```viml
 colorscheme tender
@@ -51,3 +52,6 @@ let g:lightline = { 'colorscheme': 'tender' }
 ---
 
 © 2016 [jacoborus](https://github.com/jacoborus) - Released under [MIT License](https://raw.github.com/jacoborus/nanobar/master/LICENSE)
+
+   [dill]: <https://github.com/joemccann/dillinger>
+   [git-repo-url]: <https://github.com/joemccann/dillinger.git>
