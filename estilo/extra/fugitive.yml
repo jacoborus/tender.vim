@@ -1,10 +1,10 @@
 FugitiveblameBoundary: '' # Keyword
-FugitiveblameHash: '' # Identifier
-FugitiveblameUncommitted: '' # Ignore
-FugitiveblameTime: '' # PreProc
+FugitiveblameHash: 'sky' # Identifier
+FugitiveblameUncommitted: 'cherry' # Ignore
+FugitiveblameTime: 'willow' # PreProc
 FugitiveblameLineNumber: '' # Number
 FugitiveblameOriginalFile: '' # String
 FugitiveblameOriginalLineNumber: '' #
 FugitiveblameShort: '' # FugitiveblameDelimiter
 FugitiveblameDelimiter: '' # Delimiter
-FugitiveblameNotCommittedYet: '' # Comment
+FugitiveblameNotCommittedYet: 'straw' # Comment

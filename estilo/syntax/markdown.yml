@@ -20,7 +20,7 @@ markdownUrl: 'ocean' # Float
 markdownUrlTitle: 'straw' # String
 markdownIdDelimiter: '' # markdownLinkDelimiter
 markdownUrlDelimiter: 'mango' # htmlTag
-markdownUrlTitleDelimiter: 'darkmango' # Delimiter
+markdownUrlTitleDelimiter: 'toffee' # Delimiter
 markdownItalic: '' # htmlItalic
 markdownBold: '' # htmlBold
 markdownBoldItalic: '' # htmlBoldItalic
