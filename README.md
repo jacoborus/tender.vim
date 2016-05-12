@@ -70,6 +70,10 @@ colorscheme tender
 let g:lightline = { 'colorscheme': 'tender' }
 ```
 
+## Contribute
+
+Clone the repo and install dependencies with nodejs, then follow [Estilo instructions](https://github.com/jacoborus/estilo/#step-by-step)
+
 <br><br>
 
 ---
