@@ -1,6 +1,6 @@
 {
   "name": "tender",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "description": "A tender color scheme for vim and its plugins",
   "private": true,
   "scripts": {
