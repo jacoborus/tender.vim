@@ -1,6 +1,6 @@
 {
   "name": "tender",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "description": "A tender color scheme for vim and its plugins",
   "private": true,
   "scripts": {
@@ -20,6 +20,6 @@
   "author": "Jacobo Tabernero http://jacoborus.codes",
   "license": "MIT",
   "dependencies": {
-    "estilo": "^0.9.1"
+    "estilo": "^0.9.2"
   }
 }

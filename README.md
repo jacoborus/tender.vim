@@ -30,9 +30,6 @@ colorscheme tender
 **Tender** includes a [lightline](https://github.com/itchyny/lightline.vim) theme, to enable it add the next line to your vim config:
 
 ```viml
-" enable tender lightline theme
-let g:tender_lightline = 1
-" set lighline theme
 let g:lightline = { 'colorscheme': 'tender' }
 ```
 
