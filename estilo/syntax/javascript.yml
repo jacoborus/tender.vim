@@ -17,7 +17,7 @@ javaScriptFunction: '' # Function
 javaScriptBraces: 'sky ' # Function
 javaScriptError: '' # Error
 javaScrParenError: '' # javaScriptError
-javaScriptNull: '' # Keyword
+javaScriptNull: 'mango' # Keyword
 javaScriptBoolean: '' # Boolean
 javaScriptRegexpString: '' # String
 javaScriptIdentifier: '' # Identifier

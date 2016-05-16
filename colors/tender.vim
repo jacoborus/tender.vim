@@ -1,5 +1,5 @@
 "
-" tender v0.3.7
+" tender v0.3.8
 " A tender color scheme for vim and its plugins
 " author: Jacobo Tabernero http://jacoborus.codes
 " license: MIT
@@ -105,6 +105,7 @@ hi helpHeadline guifg=#66afce ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=
 hi helpNote guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi javaScriptOperator guifg=#b8c468 ctermfg=149 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi javaScriptBraces guifg=#abd9ec ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javaScriptNull guifg=#f9b943 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi jsonEscape guifg=#66afce ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi jsonNumber guifg=#f9b943 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi jsonBraces guifg=#eeeeee ctermfg=255 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
