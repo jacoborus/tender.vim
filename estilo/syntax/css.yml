@@ -81,7 +81,7 @@ cssURL: '' # String
 cssFunctionName: '' # Function
 cssFunctionComma: '' # Function
 cssColor: '' # Constant
-cssIdentifier: 'ocean' # Function
+cssIdentifier: 'sushi' # Function
 cssInclude: '' # Include
 cssIncludeKeyword: 'mango' # atKeyword
 cssImportant: 'cherry' # Special

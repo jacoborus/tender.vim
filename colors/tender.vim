@@ -85,7 +85,7 @@ hi cssTextProp guifg=#abd9ec ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=
 hi cssValueLength guifg=#eeeeee ctermfg=255 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi cssValueInteger guifg=#eeeeee ctermfg=255 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi cssValueNumber guifg=#eeeeee ctermfg=255 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi cssIdentifier guifg=#66afce ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi cssIdentifier guifg=#818f21 ctermfg=100 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi cssIncludeKeyword guifg=#f9b943 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi cssImportant guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi cssClassName guifg=#b8c468 ctermfg=149 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
