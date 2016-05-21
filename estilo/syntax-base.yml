@@ -5,10 +5,8 @@ Character: 'mango -' # Constant
 Boolean: 'mango -' # Constant
 Number: 'mango -' # Constant
 Float: 'mango -' # Constant
-# Identifier
 Identifier: 'sky -'
 Function: 'sky -' # Identifier
-# Statement
 Statement: 'sky -'
 Conditional: 'willow -' # Statement
 Repeat: '' # Statement
@@ -16,29 +14,22 @@ Label: '' # Statement
 Operator: 'cherry -' # Statement
 Keyword: '' # Statement
 Exception: 'cherry -' # Statement
-# PreProc
 PreProc: 'willow -'
 Include: '' # PreProc
 Define: '' # PreProc
 Macro: '' # PreProc
 PreCondit: '' # PreProc
-# Type
 Type: 'ocean - '
 StorageClass: '' # Type
 Structure: '' # Type
 Typedef: '' # Type
-# Special
 Special: 'ocean -'
 SpecialChar: '' # Special
 Tag: '' # Special
 Delimiter: '' # Special
 SpecialComment: '' # Special
 Debug: '' # Special
-#Underlined
 Underlined: ''
-#Ignore
 Ignore: ''
-# Error
 Error: 'texto cherry'
-# Todo
 Todo: 'cherry - b'
