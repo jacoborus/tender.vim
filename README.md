@@ -32,7 +32,7 @@ colorscheme tender
 Contrast version:
 
 ```viml
-colorscheme tender-contrast
+colorscheme tendercontrast
 ```
 
 **Tender** includes a [lightline](https://github.com/itchyny/lightline.vim) theme, to enable it add the next line to your vim config:
