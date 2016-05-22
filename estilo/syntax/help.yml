@@ -4,7 +4,7 @@ helpBar: '' # Ignore
 helpBacktick: '' # Ignore
 helpStar: '' # Ignore
 helpHyperTextEntry: '' # String
-helpHeadline: 'ocean' # Statement
+helpHeadline: 'blue2' # Statement
 helpHeader: '' # PreProc
 helpSectionDelim: '' # PreProc
 helpVim: '' # Identifier
@@ -12,7 +12,7 @@ helpCommand: '' # Comment
 helpExample: '' # Comment
 helpOption: '' # Type
 helpSpecial: '' # Special
-helpNote: 'cherry' # Todo
+helpNote: 'red2' # Todo
 helpComment: '' # Comment
 helpConstant: '' # Constant
 helpString: '' # String

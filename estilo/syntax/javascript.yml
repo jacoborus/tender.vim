@@ -10,14 +10,14 @@ javaScriptNumber: '' # javaScriptValue
 javaScriptConditional: '' # Conditional
 javaScriptRepeat: '' # Repeat
 javaScriptBranch: '' # Conditional
-javaScriptOperator: 'willow ' # Operator
+javaScriptOperator: 'green1 ' # Operator
 javaScriptType: '' # Type
 javaScriptStatement: '' # Statement
 javaScriptFunction: '' # Function
-javaScriptBraces: 'sky ' # Function
+javaScriptBraces: 'blue1 ' # Function
 javaScriptError: '' # Error
 javaScrParenError: '' # javaScriptError
-javaScriptNull: 'mango' # Keyword
+javaScriptNull: 'yellow2' # Keyword
 javaScriptBoolean: '' # Boolean
 javaScriptRegexpString: '' # String
 javaScriptIdentifier: '' # Identifier

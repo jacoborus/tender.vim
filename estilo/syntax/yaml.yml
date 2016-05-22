@@ -10,8 +10,8 @@ yamlYAMLDirective: '' # yamlDirectiveName
 yamlReservedDirective: '' # Error
 yamlYAMLVersion: '' # Number
 yamlString: '' # String
-yamlFlowString: 'straw ' # yamlString
-yamlFlowStringDelimiter: 'mango ' # yamlString
+yamlFlowString: 'yellow1 ' # yamlString
+yamlFlowStringDelimiter: 'yellow2 ' # yamlString
 yamlEscape: '' # SpecialChar
 yamlSingleEscape: '' # SpecialChar
 yamlBlockCollectionItemStart: '' # Label
@@ -21,7 +21,7 @@ yamlFlowMappingKey: '' # Identifier
 yamlFlowMappingMerge: '' # Special
 yamlMappingKeyStart: '' # Special
 yamlFlowIndicator: '' # Special
-yamlKeyValueDelimiter: 'cherry ' # Special
+yamlKeyValueDelimiter: 'red2 ' # Special
 yamlConstant: '' # Constant
 yamlNull: '' # yamlConstant
 yamlBool: '' # yamlConstant

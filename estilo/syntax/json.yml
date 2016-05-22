@@ -1,13 +1,13 @@
 jsonPadding: '' # Operator
 jsonString: '' # String
 jsonTest: '' # Label
-jsonEscape: 'ocean' # Special
-jsonNumber: 'mango' # Number
+jsonEscape: 'blue2' # Special
+jsonNumber: 'yellow2' # Number
 jsonBraces: 'texto' # Delimiter
 jsonNull: '' # Function
-jsonBoolean: 'mango' # Boolean
+jsonBoolean: 'yellow2' # Boolean
 jsonKeyword: '' # Label
-jsonKeywordMatch: 'cherry' # Label
+jsonKeywordMatch: 'red2' # Label
 jsonNumError: '' # Error
 jsonCommentError: '' # Error
 jsonSemicolonError: '' # Error
@@ -17,4 +17,5 @@ jsonStringSQError: '' # Error
 jsonNoQuotesError: '' # Error
 jsonTripleQuotesError: '' # Error
 jsonQuote: 'texto' # Quote
-jsonNoise: 'cherry' # Noise
+jsonNoise: 'red2' # Noise
+

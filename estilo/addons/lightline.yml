@@ -1,25 +1,25 @@
 # normal
-normal.left: 'fondo sky fondo ocean' # 2 items
-normal.right: 'fondo sky fondo ocean' # 2 items
-normal.middle: 'sky plomo' # 1 item
-normal.error: 'fondo cherry' # 1 item
-normal.warning: 'fondo mango' # 1 item
+normal.left: 'fondo blue1 fondo blue2' # 2 items
+normal.right: 'fondo blue1 fondo blue2' # 2 items
+normal.middle: 'blue1 plomo' # 1 item
+normal.error: 'fondo red2' # 1 item
+normal.warning: 'fondo yellow2' # 1 item
 # inactive
 inactive.left:  'grisclaro grisoscuro' # 2 items
 inactive.right: 'grisclaro grisoscuro grisclaro grisoscuro' # 2 items, linking to normal.right by default
 inactive.middle: 'grisclaro plomo' # 1 item, linking to normal.middle by default
 # insert
-insert.left: 'fondo willow fondo sushi' # 2 items
-insert.right: 'fondo willow fondo sushi' # 2 items, linking to normal.right by default
-insert.middle: 'willow plomo' # 1 items, linking to normal.middle by default
+insert.left: 'fondo green1 fondo green2' # 2 items
+insert.right: 'fondo green1 fondo green2' # 2 items, linking to normal.right by default
+insert.middle: 'green1 plomo' # 1 items, linking to normal.middle by default
 # replace
-replace.left: 'fondo cherry fondo carmine' # 2 items
-replace.right: 'fondo cherry fondo carmine' # 2 items, linking to normal.right by default
-replace.middle: 'cherry plomo' # 1 items, linking to normal.middle by default
+replace.left: 'fondo red2 fondo red3' # 2 items
+replace.right: 'fondo red2 fondo red3' # 2 items, linking to normal.right by default
+replace.middle: 'red2 plomo' # 1 items, linking to normal.middle by default
 # visual
-visual.left: 'fondo mango fondo toffee' # 2 items
-visual.right: 'fondo mango fondo toffee' # 2 items, linking to normal.right by default
-visual.middle: 'mango plomo' # 1 items, linking to normal.middle by default
+visual.left: 'fondo yellow2 fondo yellow3' # 2 items
+visual.right: 'fondo yellow2 fondo yellow3' # 2 items, linking to normal.right by default
+visual.middle: 'yellow2 plomo' # 1 items, linking to normal.middle by default
 # tabline
 tabline.left: 'grisclaro grisoscuro' # 1 item
 tabline.tabsel: 'texto fondo' # 1 item
