@@ -3,7 +3,7 @@ jsonString: '' # String
 jsonTest: '' # Label
 jsonEscape: 'blue2' # Special
 jsonNumber: 'yellow2' # Number
-jsonBraces: 'texto' # Delimiter
+jsonBraces: 'text' # Delimiter
 jsonNull: '' # Function
 jsonBoolean: 'yellow2' # Boolean
 jsonKeyword: '' # Label
@@ -16,6 +16,7 @@ jsonMissingCommaError: '' # Error
 jsonStringSQError: '' # Error
 jsonNoQuotesError: '' # Error
 jsonTripleQuotesError: '' # Error
-jsonQuote: 'texto' # Quote
+jsonQuote: 'text' # Quote
 jsonNoise: 'red2' # Noise
+
 

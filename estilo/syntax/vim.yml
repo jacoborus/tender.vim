@@ -23,7 +23,7 @@ vimEchoHL: '' # vimCommand
 vimElseIfErr: '' #  Error
 vimElseif: '' # vimCondHL
 vimEnvvar: '' # PreProc
-vimError: 'texto red2' #  Error
+vimError: 'text red2' #  Error
 vimFBVar: '' #  vimVar
 vimFgBgAttrib: '' # vimHiAttrib
 vimFold: '' # Folded

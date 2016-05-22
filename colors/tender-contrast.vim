@@ -1,5 +1,5 @@
 "
-" tender-contrast v0.5.0
+" tender-contrast v0.5.1
 " A color scheme for vim and its plugins
 " author: Jacobo Tabernero http://jacoborus.codes
 " license: MIT

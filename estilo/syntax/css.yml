@@ -70,9 +70,9 @@ cssRenderAttr: '' # cssAttr
 cssCommonAttr: '' # cssAttr
 cssPseudoClassId: '' # PreProc
 cssPseudoClassLang: '' # Constant
-cssValueLength: 'texto' # Number
-cssValueInteger: 'texto' # Number
-cssValueNumber: 'texto' # Number
+cssValueLength: 'text' # Number
+cssValueInteger: 'text' # Number
+cssValueNumber: 'text' # Number
 cssValueAngle: '' # Number
 cssValueTime: '' # Number
 cssValueFrequency: '' # Number
@@ -112,8 +112,8 @@ cssUnicodeRange: '' # Constant
 cssClassName: 'green1' # Function
 cssClassNameDot: 'blue1' # Function
 cssProp: 'blue1' # StorageClass
-cssAttr: 'texto' # Constant
-cssUnitDecorators: 'texto' # Number
+cssAttr: 'text' # Constant
+cssUnitDecorators: 'text' # Number
 cssNoise: 'red2' # Noise
 atKeyword: '' # PreProc
 
