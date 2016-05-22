@@ -29,7 +29,7 @@ hi ErrorMsg guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=reverse cterm=
 hi VertSplit guifg=#1d1d1d ctermfg=234 guibg=#1d1d1d ctermbg=234 gui=NONE cterm=NONE
 hi Folded guifg=#666666 ctermfg=242 guibg=#0b0b0b ctermbg=232 gui=NONE cterm=NONE
 hi FoldColumn guifg=#666666 ctermfg=242 guibg=#0b0b0b ctermbg=232 gui=NONE cterm=NONE
-hi IncSearch guifg=#1d1d1d ctermfg=234 guibg=#e9edb2 ctermbg=193 gui=NONE cterm=NONE
+hi IncSearch guifg=#1d1d1d ctermfg=234 guibg=#ffffff ctermbg=15 gui=NONE cterm=NONE
 hi LineNr guifg=#444444 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi MatchParen guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi NonText guifg=#444444 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -39,7 +39,7 @@ hi PMenuSel guifg=#1d1d1d ctermfg=234 guibg=#b8c468 ctermbg=149 gui=NONE cterm=N
 hi PmenuSbar guifg=#d1b580 ctermfg=180 guibg=#d1b580 ctermbg=180 gui=NONE cterm=NONE
 hi PmenuThumb guifg=#f9b943 ctermfg=215 guibg=#f9b943 ctermbg=215 gui=NONE cterm=NONE
 hi Question guifg=#b8c468 ctermfg=149 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Search guifg=#e9edb2 ctermfg=193 guibg=NONE ctermbg=NONE gui=underline cterm=underline
+hi Search guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=underline,bold cterm=underline,bold
 hi SpecialKey guifg=#66afce ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellBad guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellLocal guifg=#d1b580 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -140,7 +140,7 @@ hi FugitiveblameHash guifg=#abd9ec ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE 
 hi FugitiveblameUncommitted guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi FugitiveblameTime guifg=#b8c468 ctermfg=149 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi FugitiveblameNotCommittedYet guifg=#d1b580 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi NERDTreeHelp guifg=#c9c9c9 ctermfg=251 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi NERDTreeHelp guifg=#eeeeee ctermfg=255 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NERDTreeHelpKey guifg=#b8c468 ctermfg=149 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NERDTreeHelpCommand guifg=#f9b943 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NERDTreeHelpTitle guifg=#abd9ec ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
