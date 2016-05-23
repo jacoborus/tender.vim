@@ -1,8 +1,8 @@
 if exists('g:tender_lightline') && g:tender_lightline
   let s:p = {"normal": {}, "inactive": {}, "insert": {}, "replace": {}, "visual": {}, "tabline": {}}
-  let s:p.normal.left = [[["#282828", 235], ["#abd9ec", 153]], [["#282828", 235], ["#66afce", 74]]]
-  let s:p.normal.right = [[["#282828", 235], ["#abd9ec", 153]], [["#282828", 235], ["#66afce", 74]]]
-  let s:p.normal.middle = [[["#abd9ec", 153], ["#444444", 238]]]
+  let s:p.normal.left = [[["#282828", 235], ["#a2d8ee", 153]], [["#282828", 235], ["#6bb9dc", 74]]]
+  let s:p.normal.right = [[["#282828", 235], ["#a2d8ee", 153]], [["#282828", 235], ["#6bb9dc", 74]]]
+  let s:p.normal.middle = [[["#a2d8ee", 153], ["#444444", 238]]]
   let s:p.normal.error = [[["#282828", 235], ["#f43753", 203]]]
   let s:p.normal.warning = [[["#282828", 235], ["#f9b943", 215]]]
   let s:p.inactive.left = [[["#bbbbbb", 250], ["#666666", 242]]]

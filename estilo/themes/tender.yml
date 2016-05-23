@@ -1,19 +1,24 @@
 name: 'tender'
 background: 'dark'
 colors:
+  # reds
   red1: '@blush'
   red2: '@cherry'
   red3: '@carmine'
+  # blues
+  blue0: '@pastelblue'
   blue1: '@sky'
   blue2: '@ocean'
-  blue3: '@night'
+  blue3: '@denim'
+  # greens
   green1: '@willow'
   green2: '@sushi'
   green3: '@fern'
+  # yellows
   yellow1: '@straw'
   yellow2: '@yolk'
   yellow3: '@toffee'
-  # greys
+  # grises
   highlighted: '@shiny1'
   text: '@shiny2'
   grisclaro: '@shiny4'
