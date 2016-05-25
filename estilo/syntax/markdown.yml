@@ -1,11 +1,11 @@
-markdownH1: 'blue1' # htmlH1
+markdownH1: 'blue1 - b' # htmlH1
 markdownH2: '' # htmlH2
 markdownH3: '' # htmlH3
 markdownH4: '' # htmlH4
 markdownH5: '' # htmlH5
 markdownH6: '' # htmlH6
-markdownHeadingRule: 'red2' # markdownRule
-markdownHeadingDelimiter: 'red2' # Delimiter
+markdownHeadingRule: 'red2 - b' # markdownRule
+markdownHeadingDelimiter: 'red2 - b' # Delimiter
 markdownOrderedListMarker: '' # markdownListMarker
 markdownListMarker: 'yellow2' # htmlTagName
 markdownBlockquote: 'yellow2' # Comment
