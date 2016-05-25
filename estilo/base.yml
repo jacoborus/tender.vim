@@ -74,7 +74,7 @@ Tag: '' # Special
 Delimiter: '' # Special
 SpecialComment: '' # Special
 Debug: '' # Special
-Underlined: ''
+Underlined: '- - u'
 Ignore: ''
 Error: 'text red2'
 Todo: 'red2 - b'

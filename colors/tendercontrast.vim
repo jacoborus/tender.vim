@@ -1,5 +1,5 @@
 "
-" tendercontrast v0.6.5
+" tendercontrast v0.6.7
 " A color scheme for vim and its plugins
 " author: Jacobo Tabernero http://jacoborus.codes
 " license: MIT
@@ -70,6 +70,7 @@ hi Exception guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NO
 hi PreProc guifg=#b8c468 ctermfg=149 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Type guifg=#6bb9dc ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Special guifg=#6bb9dc ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Underlined guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=underline cterm=underline
 hi Error guifg=#eeeeee ctermfg=255 guibg=#f43753 ctermbg=203 gui=NONE cterm=NONE
 hi Todo guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi cssVendor guifg=#818f21 ctermfg=100 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
