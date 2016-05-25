@@ -3,10 +3,10 @@ helpHyperTextJump: '' # Identifier
 helpBar: '' # Ignore
 helpBacktick: '' # Ignore
 helpStar: '' # Ignore
-helpHyperTextEntry: '' # String
+helpHyperTextEntry: 'green1' # String
 helpHeadline: 'blue2' # Statement
 helpHeader: '' # PreProc
-helpSectionDelim: '' # PreProc
+helpSectionDelim: 'grisoscuro' # PreProc
 helpVim: '' # Identifier
 helpCommand: '' # Comment
 helpExample: '' # Comment
