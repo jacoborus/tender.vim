@@ -21,6 +21,6 @@
   "author": "Jacobo Tabernero http://jacoborus.codes",
   "license": "MIT",
   "dependencies": {
-    "estilo": "^0.11.3"
+    "estilo": "^0.11.4"
   }
 }
