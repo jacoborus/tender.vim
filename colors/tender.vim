@@ -1,5 +1,5 @@
 "
-" tender v0.6.1
+" tender v0.6.3
 " A color scheme for vim and its plugins
 " author: Jacobo Tabernero http://jacoborus.codes
 " license: MIT
@@ -37,13 +37,13 @@ hi Normal guifg=#eeeeee ctermfg=255 guibg=#282828 ctermbg=235 gui=NONE cterm=NON
 hi PMenu guifg=#282828 ctermfg=235 guibg=#6bb9dc ctermbg=74 gui=NONE cterm=NONE
 hi PMenuSel guifg=#282828 ctermfg=235 guibg=#bfca76 ctermbg=150 gui=NONE cterm=NONE
 hi PmenuSbar guifg=#d3bb8e ctermfg=180 guibg=#d3bb8e ctermbg=180 gui=NONE cterm=NONE
-hi PmenuThumb guifg=#f9b943 ctermfg=215 guibg=#f9b943 ctermbg=215 gui=NONE cterm=NONE
+hi PmenuThumb guifg=#ffc955 ctermfg=221 guibg=#ffc955 ctermbg=221 gui=NONE cterm=NONE
 hi Question guifg=#bfca76 ctermfg=150 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Search guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=underline,bold cterm=underline,bold
 hi SpecialKey guifg=#6bb9dc ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellBad guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellLocal guifg=#d3bb8e ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi SpellCap guifg=#f9b943 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi SpellCap guifg=#ffc955 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpellRare guifg=#6bb9dc ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi StatusLine guifg=#282828 ctermfg=235 guibg=#6bb9dc ctermbg=74 gui=bold cterm=bold
 hi StatusLineNC guifg=#282828 ctermfg=235 guibg=#666666 ctermbg=242 gui=bold cterm=bold
@@ -55,12 +55,12 @@ hi Visual guifg=NONE ctermfg=NONE guibg=#0b0b0b ctermbg=232 gui=NONE cterm=NONE
 hi WarningMsg guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi WildMenu guifg=#282828 ctermfg=235 guibg=#bfca76 ctermbg=150 gui=bold cterm=bold
 hi Comment guifg=#666666 ctermfg=242 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Constant guifg=#f9b943 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Constant guifg=#ffc955 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi String guifg=#d3bb8e ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Character guifg=#f9b943 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Boolean guifg=#f9b943 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Number guifg=#f9b943 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Float guifg=#f9b943 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Character guifg=#ffc955 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Boolean guifg=#ffc955 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Number guifg=#ffc955 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Float guifg=#ffc955 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Identifier guifg=#a2d8ee ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Function guifg=#a2d8ee ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Statement guifg=#a2d8ee ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -74,7 +74,7 @@ hi Error guifg=#eeeeee ctermfg=255 guibg=#f43753 ctermbg=203 gui=NONE cterm=NONE
 hi Todo guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi cssVendor guifg=#95a235 ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi cssTagName guifg=#95a235 ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi cssAttrComma guifg=#f9b943 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi cssAttrComma guifg=#ffc955 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi cssBackgroundProp guifg=#cbf0ff ctermfg=195 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi cssBorderProp guifg=#cbf0ff ctermfg=195 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi cssBoxProp guifg=#6bb9dc ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -86,7 +86,7 @@ hi cssValueLength guifg=#eeeeee ctermfg=255 guibg=NONE ctermbg=NONE gui=NONE cte
 hi cssValueInteger guifg=#eeeeee ctermfg=255 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi cssValueNumber guifg=#eeeeee ctermfg=255 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi cssIdentifier guifg=#95a235 ctermfg=107 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi cssIncludeKeyword guifg=#f9b943 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi cssIncludeKeyword guifg=#ffc955 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi cssImportant guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi cssClassName guifg=#bfca76 ctermfg=150 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi cssClassNameDot guifg=#a2d8ee ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -105,19 +105,19 @@ hi helpHeadline guifg=#6bb9dc ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=
 hi helpNote guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi javaScriptOperator guifg=#bfca76 ctermfg=150 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi javaScriptBraces guifg=#a2d8ee ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi javaScriptNull guifg=#f9b943 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javaScriptNull guifg=#ffc955 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi jsonEscape guifg=#6bb9dc ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi jsonNumber guifg=#f9b943 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi jsonNumber guifg=#ffc955 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi jsonBraces guifg=#eeeeee ctermfg=255 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi jsonBoolean guifg=#f9b943 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi jsonBoolean guifg=#ffc955 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi jsonKeywordMatch guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi jsonQuote guifg=#eeeeee ctermfg=255 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi jsonNoise guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi markdownH1 guifg=#a2d8ee ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi markdownHeadingRule guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi markdownHeadingDelimiter guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi markdownListMarker guifg=#f9b943 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi markdownBlockquote guifg=#f9b943 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi markdownListMarker guifg=#ffc955 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi markdownBlockquote guifg=#ffc955 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi markdownRule guifg=#bfca76 ctermfg=150 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi markdownLinkText guifg=#bfca76 ctermfg=150 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi markdownLinkTextDelimiter guifg=#a2d8ee ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -126,7 +126,7 @@ hi markdownIdDeclaration guifg=#95a235 ctermfg=107 guibg=NONE ctermbg=NONE gui=N
 hi markdownAutomaticLink guifg=#6bb9dc ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi markdownUrl guifg=#6bb9dc ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi markdownUrlTitle guifg=#d3bb8e ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi markdownUrlDelimiter guifg=#f9b943 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi markdownUrlDelimiter guifg=#ffc955 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi markdownUrlTitleDelimiter guifg=#9b7425 ctermfg=3 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi markdownCodeDelimiter guifg=#6bb9dc ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi markdownCode guifg=#d3bb8e ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -143,12 +143,12 @@ hi FugitiveblameTime guifg=#bfca76 ctermfg=150 guibg=NONE ctermbg=NONE gui=NONE 
 hi FugitiveblameNotCommittedYet guifg=#d3bb8e ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NERDTreeHelp guifg=#eeeeee ctermfg=255 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NERDTreeHelpKey guifg=#bfca76 ctermfg=150 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi NERDTreeHelpCommand guifg=#f9b943 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi NERDTreeHelpCommand guifg=#ffc955 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NERDTreeHelpTitle guifg=#a2d8ee ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NERDTreeUp guifg=#bfca76 ctermfg=150 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NERDTreeCWD guifg=#6bb9dc ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NERDTreeOpenable guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi NERDTreeClosable guifg=#f9b943 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi NERDTreeClosable guifg=#ffc955 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi GitGutterAdd guifg=#bfca76 ctermfg=150 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi GitGutterChange guifg=#a2d8ee ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi GitGutterDelete guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -159,7 +159,7 @@ hi javaScriptDocTags guifg=#56600f ctermfg=58 guibg=NONE ctermbg=NONE gui=NONE c
 hi javaScriptDocSeeTag guifg=#3dacdc ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi javaScriptBrowserObjects guifg=#6bb9dc ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi javaScriptDOMObjects guifg=#6bb9dc ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi javaScriptFuncArg guifg=#f9b943 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javaScriptFuncArg guifg=#ffc955 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi stylusVariable guifg=#eeeeee ctermfg=255 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi stylusClass guifg=#bfca76 ctermfg=150 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi stylusClassChar guifg=#9b7425 ctermfg=3 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
