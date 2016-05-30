@@ -35,6 +35,13 @@ Contrast version:
 colorscheme tendercontrast
 ```
 
+In neovim:
+
+```viml
+" enable true color in neovim
+set termguicolors
+```
+
 **Tender** includes a [lightline](https://github.com/itchyny/lightline.vim) theme, to enable it add the next line to your vim config:
 
 ```viml
