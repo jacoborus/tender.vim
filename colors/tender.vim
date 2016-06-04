@@ -1,5 +1,5 @@
 "
-" tender v0.6.9
+" tender v0.6.10
 " A color scheme for vim and its plugins
 " author: Jacobo Tabernero http://jacoborus.codes
 " license: MIT
@@ -169,3 +169,11 @@ hi stylusClassChar guifg=#cbf0ff ctermfg=195 guibg=NONE ctermbg=NONE gui=NONE ct
 hi stylusId guifg=#c4c773 ctermfg=185 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi stylusIdChar guifg=#cbf0ff ctermfg=195 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi cssVisualVal guifg=#eeeeee ctermfg=255 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javascriptOpSymbol guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javascriptDocNotation guifg=#6a6b3f ctermfg=242 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javascriptDocNamedParamType guifg=#44778d ctermfg=66 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javascriptDocParamName guifg=#9b7425 ctermfg=3 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javascriptDocParamType guifg=#44778d ctermfg=66 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javascriptRepeat guifg=#c4c773 ctermfg=185 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javascriptObjectLabelColon guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javascriptFuncName guifg=#c4c773 ctermfg=185 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
