@@ -10,6 +10,7 @@ colors:
   blue1: '@sky'
   blue2: '@ocean'
   blue3: '@denim'
+  bluecomment: '@night'
   # greens
   green1: '@willow'
   green2: '@sushi'
