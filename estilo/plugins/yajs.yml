@@ -63,7 +63,7 @@ javascriptTry: '' # Statement
 javascriptExceptions: '' # Statement
 javascriptMethodName: '' # Function
 javascriptMethodAccessor: '' # Operator
-javascriptObjectMethodName: '' # Function
+javascriptObjectMethodName: 'green1' # Function
 javascriptFuncKeyword: '' # Keyword
 javascriptAsyncFunc: '' # Keyword
 javascriptArrowFunc: '' # Type
