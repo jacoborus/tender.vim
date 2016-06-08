@@ -24,7 +24,7 @@ javascriptTemplate: '' # String
 javascriptEventString: '' # String
 javascriptASCII: '' # Label
 javascriptTemplateSubstitution: '' # Label
-javascriptTemplateSB: '' # javascriptTemplateSubstitution
+javascriptTemplateSB: 'red2' # javascriptTemplateSubstitution
 javascriptRegexpString: '' # String
 javascriptGlobal: '' # Constant
 javascriptCharacter: '' # Character

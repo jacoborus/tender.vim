@@ -1,5 +1,5 @@
 "
-" tender v0.7.12
+" tender v0.7.13
 " A color scheme for vim and its plugins
 " author: Jacobo Tabernero http://jacoborus.codes
 " license: MIT
@@ -174,6 +174,7 @@ hi javascriptDocNotation guifg=#6a6b3f ctermfg=242 guibg=NONE ctermbg=NONE gui=N
 hi javascriptDocNamedParamType guifg=#44778d ctermfg=66 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi javascriptDocParamName guifg=#9b7425 ctermfg=3 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi javascriptDocParamType guifg=#44778d ctermfg=66 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi javascriptTemplateSB guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi javascriptRepeat guifg=#bfc476 ctermfg=150 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi javascriptObjectLabelColon guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi javascriptObjectMethodName guifg=#bfc476 ctermfg=150 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
