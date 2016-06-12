@@ -12,7 +12,7 @@ helpCommand: '' # Comment
 helpExample: '' # Comment
 helpOption: '' # Type
 helpSpecial: '' # Special
-helpNote: 'red2' # Todo
+helpNote: 'red1' # Todo
 helpComment: '' # Comment
 helpConstant: '' # Constant
 helpString: '' # String

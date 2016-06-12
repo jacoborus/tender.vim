@@ -5,8 +5,9 @@ stylusFunction: '' # Function
 stylusInterpolation: '' # Delimiter
 stylusAmpersand: '' # Character
 stylusClass: 'green1' # Type
-stylusClassChar: 'blue0' # Special
+stylusClassChar: 'blue1' # Special
 stylusEscape: '' # Special
 stylusId: 'green1' # Identifier
-stylusIdChar: 'blue0' # Special
+stylusIdChar: 'blue1' # Special
 cssVisualVal: 'text'
+

@@ -1,9 +1,8 @@
 # reds
-blush: '#ff90a1'
 cherry: '#f43753'
 carmine: '#c12038'
+wine: '#872937'
 # blues
-pastelblue: '#cbf0ff'
 sky: '#b3deef'
 ocean: '#73cef4'
 denim: '#3dacdc'
@@ -13,9 +12,8 @@ willow: '#bfc476'
 sushi: '#b6c025'
 fern: '#6a6b3f'
 # yellows
-yolk: '#f9b943'
+yolk: '#ffc24b'
 straw: '#d1b580'
-camel: '#b99d67'
 toffee: '#9b7425'
 # greys
 shiny1: '#ffffff'

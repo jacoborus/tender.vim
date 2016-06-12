@@ -2,15 +2,13 @@ name: 'tendercontrast'
 background: 'dark'
 colors:
   # reds
-  red1: '@blush'
-  red2: '@cherry'
-  red3: '@carmine'
+  red1: '@cherry'
+  red2: '@carmine'
+  red3: '@wine'
   # blues
-  blue0: '@pastelblue'
   blue1: '@sky'
   blue2: '@ocean'
-  blue3: '@denim'
-  bluecomment: '@night'
+  blue3: '@night'
   # greens
   green1: '@willow'
   green2: '@sushi'
@@ -19,7 +17,7 @@ colors:
   yellow1: '@straw'
   yellow2: '@yolk'
   yellow3: '@toffee'
-  # grises
+  # greys
   highlighted: '@shiny1'
   text: '@shiny2'
   grisclaro: '@shiny4'
@@ -30,4 +28,3 @@ colors:
   bg: '@dark3'
   darker: '@dark4'
   darkest: '@dark4'
-

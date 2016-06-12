@@ -21,7 +21,7 @@ yamlFlowMappingKey: '' # Identifier
 yamlFlowMappingMerge: '' # Special
 yamlMappingKeyStart: '' # Special
 yamlFlowIndicator: '' # Special
-yamlKeyValueDelimiter: 'red2 ' # Special
+yamlKeyValueDelimiter: 'red1 ' # Special
 yamlConstant: '' # Constant
 yamlNull: '' # yamlConstant
 yamlBool: '' # yamlConstant

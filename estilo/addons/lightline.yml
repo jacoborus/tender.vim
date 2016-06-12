@@ -2,7 +2,7 @@
 normal.left: 'bg blue1 bg blue2' # 2 items
 normal.right: 'bg blue1 bg blue2' # 2 items
 normal.middle: 'blue1 plomo' # 1 item
-normal.error: 'bg red2' # 1 item
+normal.error: 'bg red1' # 1 item
 normal.warning: 'bg yellow2' # 1 item
 # inactive
 inactive.left:  'grisclaro grisoscuro' # 2 items
@@ -13,9 +13,9 @@ insert.left: 'bg green1 bg green2' # 2 items
 insert.right: 'bg green1 bg green2' # 2 items, linking to normal.right by default
 insert.middle: 'green1 plomo' # 1 items, linking to normal.middle by default
 # replace
-replace.left: 'bg red2 bg red3' # 2 items
-replace.right: 'bg red2 bg red3' # 2 items, linking to normal.right by default
-replace.middle: 'red2 plomo' # 1 items, linking to normal.middle by default
+replace.left: 'bg red1 bg red2' # 2 items
+replace.right: 'bg red1 bg red2' # 2 items, linking to normal.right by default
+replace.middle: 'red1 plomo' # 1 items, linking to normal.middle by default
 # visual
 visual.left: 'bg yellow2 bg yellow3' # 2 items
 visual.right: 'bg yellow2 bg yellow3' # 2 items, linking to normal.right by default

@@ -4,8 +4,8 @@ markdownH3: '' # htmlH3
 markdownH4: '' # htmlH4
 markdownH5: '' # htmlH5
 markdownH6: '' # htmlH6
-markdownHeadingRule: 'red2 - b' # markdownRule
-markdownHeadingDelimiter: 'red2 - b' # Delimiter
+markdownHeadingRule: 'red1 - b' # markdownRule
+markdownHeadingDelimiter: 'red1 - b' # Delimiter
 markdownOrderedListMarker: '' # markdownListMarker
 markdownListMarker: 'yellow2' # htmlTagName
 markdownBlockquote: 'yellow2' # Comment
@@ -27,6 +27,7 @@ markdownBoldItalic: '' # htmlBoldItalic
 markdownCodeDelimiter: 'blue2' # Delimiter
 markdownCode: 'yellow1' # Delimiter
 markdownEscape: 'blue2' # Special
-markdownError: 'red2' # Error
+markdownError: 'red1' # Error
+
 
 

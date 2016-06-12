@@ -7,7 +7,7 @@ jsonBraces: 'text' # Delimiter
 jsonNull: '' # Function
 jsonBoolean: 'yellow2' # Boolean
 jsonKeyword: '' # Label
-jsonKeywordMatch: 'red2' # Label
+jsonKeywordMatch: 'red1' # Label
 jsonNumError: '' # Error
 jsonCommentError: '' # Error
 jsonSemicolonError: '' # Error
@@ -17,6 +17,7 @@ jsonStringSQError: '' # Error
 jsonNoQuotesError: '' # Error
 jsonTripleQuotesError: '' # Error
 jsonQuote: 'text' # Quote
-jsonNoise: 'red2' # Noise
+jsonNoise: 'red1' # Noise
+
 
 

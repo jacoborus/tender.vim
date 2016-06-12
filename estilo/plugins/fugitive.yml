@@ -1,6 +1,6 @@
 FugitiveblameBoundary: '' # Keyword
 FugitiveblameHash: 'blue1' # Identifier
-FugitiveblameUncommitted: 'red2' # Ignore
+FugitiveblameUncommitted: 'red1' # Ignore
 FugitiveblameTime: 'green1' # PreProc
 FugitiveblameLineNumber: '' # Number
 FugitiveblameOriginalFile: '' # String

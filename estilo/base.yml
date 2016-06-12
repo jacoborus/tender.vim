@@ -8,16 +8,16 @@ CursorLineNr: 'blue2 - '
 Directory: 'blue1 -'
 DiffAdd: 'text green2'
 DiffChange: 'text blue2'
-DiffDelete: 'bg red2'
+DiffDelete: 'bg red1'
 DiffText: 'blue2 text b'
-ErrorMsg: 'red2 - r'
+ErrorMsg: 'red1 - r'
 VertSplit: 'bg bg'
 Folded: 'grisoscuro darker'
 FoldColumn: 'grisoscuro darker'
 SignColumn: ''
 IncSearch: 'bg highlighted'
 LineNr: 'plomo -'
-MatchParen: 'red2 - b'
+MatchParen: 'red1 - b'
 ModeMsg: ''
 MoreMsg: ''
 NonText: 'plomo -'
@@ -29,7 +29,7 @@ PmenuThumb: 'yellow2 yellow2'
 Question: 'green1 -'
 Search: 'highlighted - ub'
 SpecialKey: 'blue2'
-SpellBad: 'red2'
+SpellBad: 'red1'
 SpellLocal: 'yellow1'
 SpellCap: 'yellow2'
 SpellRare: 'blue2'
@@ -41,7 +41,7 @@ TabLineSel: 'green1 - b'
 Title: 'blue1 - b'
 Visual: '- darkest'
 VisualNOS: ''
-WarningMsg: 'red2 -'
+WarningMsg: 'red1 -'
 WildMenu: 'bg green1 b'
 Comment: 'grisoscuro'
 Constant: 'yellow2 -'
@@ -56,9 +56,9 @@ Statement: 'blue1 -'
 Conditional: 'green1 -' # Statement
 Repeat: '' # Statement
 Label: '' # Statement
-Operator: 'red2 -' # Statement
+Operator: 'red1 -' # Statement
 Keyword: '' # Statement
-Exception: 'red2 -' # Statement
+Exception: 'red1 -' # Statement
 PreProc: 'green1 -'
 Include: '' # PreProc
 Define: '' # PreProc
@@ -76,7 +76,8 @@ SpecialComment: '' # Special
 Debug: '' # Special
 Underlined: '- - u'
 Ignore: ''
-Error: 'text red2'
-Todo: 'red2 - b'
+Error: 'text red1'
+Todo: 'red1 - b'
+
 
 

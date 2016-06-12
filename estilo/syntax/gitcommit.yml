@@ -7,14 +7,14 @@ gitcommitUnmerged: '' # gitcommitComment
 gitcommitOnBranch: '' # Comment
 gitcommitBranch: 'blue2' # Special
 gitcommitNoBranch: '' # gitCommitBranch
-gitcommitDiscardedType: 'red3' # gitcommitType
+gitcommitDiscardedType: 'red2' # gitcommitType
 gitcommitSelectedType: 'green2' # gitcommitType
 gitcommitUnmergedType: '' # gitcommitType
 gitcommitType: '' # Type
 gitcommitNoChanges: '' # gitcommitHeader
 gitcommitHeader: 'blue1' # PreProc
-gitcommitUntrackedFile: 'red3' # gitcommitFile
-gitcommitDiscardedFile: 'red2' # gitcommitFile
+gitcommitUntrackedFile: 'red2' # gitcommitFile
+gitcommitDiscardedFile: 'red1' # gitcommitFile
 gitcommitSelectedFile: 'green1' # gitcommitFile
 gitcommitUnmergedFile: '' # gitcommitFile
 gitcommitFile: '' # Constant

@@ -2,7 +2,7 @@ javascriptReserved: '' # Error
 javascriptReservedCase: '' # Error
 javascriptInvalidOp: '' # Error
 javascriptEndColons: '' # Statement
-javascriptOpSymbol: 'red2' # Normal
+javascriptOpSymbol: 'red1' # Normal
 javascriptBraces: '' # Function
 javascriptBrackets: '' # Function
 javascriptParens: '' # Normal
@@ -16,15 +16,15 @@ javascriptDocNGParam: '' # javascriptDocParam
 javascriptDocParam: '' # Function
 javascriptDocNumParam: '' # Function
 javascriptDocEventRef: '' # Function
-javascriptDocNamedParamType: 'bluecomment' # Type
+javascriptDocNamedParamType: 'blue3' # Type
 javascriptDocParamName: 'yellow3' # Type
-javascriptDocParamType: 'bluecomment' # Type
+javascriptDocParamType: 'blue3' # Type
 javascriptString: '' # String
 javascriptTemplate: '' # String
 javascriptEventString: '' # String
 javascriptASCII: '' # Label
 javascriptTemplateSubstitution: '' # Label
-javascriptTemplateSB: 'red2' # javascriptTemplateSubstitution
+javascriptTemplateSB: 'red1' # javascriptTemplateSubstitution
 javascriptRegexpString: '' # String
 javascriptGlobal: '' # Constant
 javascriptCharacter: '' # Character
@@ -54,7 +54,7 @@ javascriptNull: '' # Boolean
 javascriptNumber: '' # Number
 javascriptBoolean: '' # Boolean
 javascriptObjectLabel: '' # javascriptLabel
-javascriptObjectLabelColon: 'red2' # javascriptLabel
+javascriptObjectLabelColon: 'red1' # javascriptLabel
 javascriptLabel: '' # Label
 javascriptPropertyName: '' # Label
 javascriptImport: '' # Special

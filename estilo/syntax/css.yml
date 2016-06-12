@@ -7,8 +7,8 @@ cssSelectorOp: '' # Special
 cssSelectorOp2: '' # Special
 cssAttrComma: 'yellow2' # Special
 cssAnimationProp: '' # cssProp
-cssBackgroundProp: 'blue0' # cssProp
-cssBorderProp: 'blue0' # cssProp
+cssBackgroundProp: 'blue1' # cssProp
+cssBorderProp: 'blue1' # cssProp
 cssBoxProp: 'blue2' # cssProp
 cssColorProp: '' # cssProp
 cssContentForPagedMediaProp: '' # cssProp
@@ -23,7 +23,7 @@ cssListProp: '' # cssProp
 cssMarqueeProp: '' # cssProp
 cssMultiColumnProp: '' # cssProp
 cssPagedMediaProp: '' # cssProp
-cssPositioningProp: 'blue3' # cssProp
+cssPositioningProp: 'blue2' # cssProp
 cssPrintProp: '' # cssProp
 cssRubyProp: '' # cssProp
 cssSpeechProp: '' # cssProp
@@ -84,7 +84,7 @@ cssColor: '' # Constant
 cssIdentifier: 'green2' # Function
 cssInclude: '' # Include
 cssIncludeKeyword: 'yellow2' # atKeyword
-cssImportant: 'red2' # Special
+cssImportant: 'red1' # Special
 cssBraces: '' # Function
 cssBraceError: '' # Error
 cssError: '' # Error
@@ -114,6 +114,7 @@ cssClassNameDot: 'blue1' # Function
 cssProp: 'blue1' # StorageClass
 cssAttr: 'text' # Constant
 cssUnitDecorators: 'text' # Number
-cssNoise: 'red2' # Noise
+cssNoise: 'red1' # Noise
 atKeyword: '' # PreProc
+
 
