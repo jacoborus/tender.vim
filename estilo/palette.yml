@@ -5,7 +5,6 @@ wine: '#872937'
 # blues
 sky: '#b3deef'
 ocean: '#73cef4'
-denim: '#3dacdc'
 night: '#44778d'
 # greens
 willow: '#bfc476'
@@ -28,5 +27,6 @@ grey4: '#444444'
 
 dark1: '#323232'
 dark2: '#282828'
+# dark2: '#252f33'
 dark3: '#1d1d1d'
 dark4: '#0b0b0b'

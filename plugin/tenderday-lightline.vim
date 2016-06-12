@@ -1,0 +1,25 @@
+if exists('g:tender_lightline') && g:tender_lightline
+  let s:p = {"normal": {}, "inactive": {}, "insert": {}, "replace": {}, "visual": {}, "tabline": {}}
+  let s:p.normal.left = [[["#d1d1d1", 252], ["#44778d", 66]], [["#d1d1d1", 252], ["#73cef4", 81]]]
+  let s:p.normal.right = [[["#d1d1d1", 252], ["#44778d", 66]], [["#d1d1d1", 252], ["#73cef4", 81]]]
+  let s:p.normal.middle = [[["#44778d", 66], ["#999999", 246]]]
+  let s:p.normal.error = [[["#d1d1d1", 252], ["#c12038", 125]]]
+  let s:p.normal.warning = [[["#d1d1d1", 252], ["#9b7425", 3]]]
+  let s:p.inactive.left = [[["#666666", 242], ["#999999", 246]]]
+  let s:p.inactive.right = [[["#666666", 242], ["#999999", 246]], [["#666666", 242], ["#999999", 246]]]
+  let s:p.inactive.middle = [[["#666666", 242], ["#999999", 246]]]
+  let s:p.insert.left = [[["#d1d1d1", 252], ["#6a6b3f", 242]], [["#d1d1d1", 252], ["#b6c025", 142]]]
+  let s:p.insert.right = [[["#d1d1d1", 252], ["#6a6b3f", 242]], [["#d1d1d1", 252], ["#b6c025", 142]]]
+  let s:p.insert.middle = [[["#6a6b3f", 242], ["#999999", 246]]]
+  let s:p.replace.left = [[["#d1d1d1", 252], ["#c12038", 125]], [["#d1d1d1", 252], ["#872937", 89]]]
+  let s:p.replace.right = [[["#d1d1d1", 252], ["#c12038", 125]], [["#d1d1d1", 252], ["#872937", 89]]]
+  let s:p.replace.middle = [[["#c12038", 125], ["#999999", 246]]]
+  let s:p.visual.left = [[["#d1d1d1", 252], ["#9b7425", 3]], [["#d1d1d1", 252], ["#ffc24b", 215]]]
+  let s:p.visual.right = [[["#d1d1d1", 252], ["#9b7425", 3]], [["#d1d1d1", 252], ["#ffc24b", 215]]]
+  let s:p.visual.middle = [[["#9b7425", 3], ["#999999", 246]]]
+  let s:p.tabline.left = [[["#666666", 242], ["#999999", 246]]]
+  let s:p.tabline.tabsel = [[["#444444", 238], ["#d1d1d1", 252]]]
+  let s:p.tabline.middle = [[["#999999", 246], ["#999999", 246]]]
+  let s:p.tabline.right = [[["#666666", 242], ["#999999", 246]]]
+  let g:lightline#colorscheme#tenderday#palette = lightline#colorscheme#flatten(s:p)
+endif

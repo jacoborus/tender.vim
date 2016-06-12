@@ -1,0 +1,30 @@
+name: 'tenderday'
+background: 'light'
+colors:
+  # reds
+  red1: '@carmine'
+  red2: '@wine'
+  red3: '@cherry'
+  # blues
+  blue1: '@night'
+  blue2: '@ocean'
+  blue3: '@sky'
+  # greens
+  green1: '@fern'
+  green2: '@sushi'
+  green3: '@willow'
+  # yellows
+  yellow1: '@toffee'
+  yellow2: '@toffee'
+  yellow3: '@yolk'
+  # greys
+  highlighted: '@dark4'
+  text: '@grey4'
+  grisclaro: '@grey3'
+  gris: '@grey2'
+  grisoscuro: '@grey1'
+  plomo: '@grey1'
+  fondocursor: '@shiny4'
+  bg: '@shiny3'
+  darker: '@shiny2'
+  darkest: '@shiny1'
