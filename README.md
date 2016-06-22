@@ -23,6 +23,18 @@ Plugin 'jacoborus/tender'
 
 Once your plugin is installed you can set the color scheme in your `.vimrc` or `init.vim`
 
+Enable true color in neovim:
+
+```viml
+set termguicolors
+```
+
+Enable true color in vim v7.4.1770 or newer:
+
+```viml
+set guicolors
+```
+
 Regular theme:
 
 ```viml
@@ -33,13 +45,6 @@ Contrast version:
 
 ```viml
 colorscheme tendercontrast
-```
-
-In neovim:
-
-```viml
-" enable true color in neovim
-set termguicolors
 ```
 
 **Tender** includes [lightline](https://github.com/itchyny/lightline.vim) and [airline](https://github.com/vim-airline/vim-airline) themes, to enable it add the next lines to your vim config:
