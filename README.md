@@ -42,7 +42,9 @@ In neovim:
 set termguicolors
 ```
 
-**Tender** includes a [lightline](https://github.com/itchyny/lightline.vim) theme, to enable it add the next line to your vim config:
+**Tender** includes [lightline](https://github.com/itchyny/lightline.vim) and [airline](https://github.com/vim-airline/vim-airline) themes, to enable it add the next lines to your vim config:
+
+**lightline:**
 
 ```viml
 " enable tender lightline theme
@@ -50,6 +52,16 @@ let g:tender_lightline = 1
 " set lighline theme
 let g:lightline = { 'colorscheme': 'tender' }
 ```
+
+**airline:**
+
+```viml
+" enable tender airline theme
+let g:tender_airline = 1
+" set airline theme
+let g:airline_theme = 'tender'
+```
+
 
 ## Features:
 
