@@ -21,7 +21,7 @@ NeoBundle 'jacoborus/tender'
 Plugin 'jacoborus/tender'
 ```
 
-Once your plugin is installed you can set the color scheme in your `.vimrc` or `init.vim` 
+Once your plugin is installed you can set the color scheme in your `.vimrc` or `init.vim`
 
 Regular theme:
 
