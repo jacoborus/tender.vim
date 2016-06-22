@@ -69,6 +69,7 @@ let g:airline_theme = 'tender'
 - tender colors
 - minimal interface
 - lightline theme
+- airline theme
 - fine tune colorization for languages and plugins:
   - javascript
   - css
