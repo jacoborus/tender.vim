@@ -35,6 +35,12 @@ Enable true color in vim v7.4.1770 or newer:
 set guicolors
 ```
 
+Fix for MacVim:
+
+```viml
+let macvim_skip_colorscheme=1
+```
+
 Regular theme:
 
 ```viml
@@ -46,6 +52,7 @@ Contrast version:
 ```viml
 colorscheme tendercontrast
 ```
+
 
 **Tender** includes [lightline](https://github.com/itchyny/lightline.vim) and [airline](https://github.com/vim-airline/vim-airline) themes, to enable it add the next lines to your vim config:
 
