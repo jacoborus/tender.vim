@@ -1,29 +1,39 @@
 # normal
-normal.left: 'bg blue1 bg blue2' # 2 items
-normal.right: 'bg blue1 bg blue2' # 2 items
-normal.middle: 'blue1 plomo' # 1 item
-normal.error: 'bg red1' # 1 item
-normal.warning: 'bg yellow2' # 1 item
+normal1: 'bg blue1' # 2 items
+normal2: 'bg blue2' # 2 items
+normal3: 'blue1 blue3' # 1 item
+normal4: 'bg blue1' # 2 items
+normal5: 'bg blue2' # 2 items
+normalError: 'bg red1' # 1 item
+normalWarning: 'bg yellow2' # 1 item
 # inactive
-inactive.left:  'grisclaro grisoscuro' # 2 items
-inactive.right: 'grisclaro grisoscuro grisclaro grisoscuro' # 2 items, linking to normal.right by default
-inactive.middle: 'grisclaro plomo' # 1 item, linking to normal.middle by default
+inactive1:  'grisclaro grisoscuro' # 2 items
+inactive2:  'grisclaro grisoscuro' # 2 items
+inactive3: 'grisclaro plomo' # 1 item, linking to normal.middle by default
+inactive4: 'grisclaro grisoscuro' # 2 items, linking to normal.right by default
+inactive5: 'grisclaro grisoscuro' # 2 items, linking to normal.right by default
 # insert
-insert.left: 'bg green1 bg green2' # 2 items
-insert.right: 'bg green1 bg green2' # 2 items, linking to normal.right by default
-insert.middle: 'green1 plomo' # 1 items, linking to normal.middle by default
+insert1: 'bg green1' # 2 items
+insert2: 'bg green2' # 2 items
+insert3: 'green1 green3' # 1 items, linking to normal.middle by default
+insert4: 'bg green1' # 2 items, linking to normal.right by default
+insert5: 'bg green2' # 2 items, linking to normal.right by default
 # replace
-replace.left: 'bg red1 bg red2' # 2 items
-replace.right: 'bg red1 bg red2' # 2 items, linking to normal.right by default
-replace.middle: 'red1 plomo' # 1 items, linking to normal.middle by default
+replace1: 'bg red1' # 2 items
+replace2: 'bg red2' # 2 items
+replace3: 'red1 red3' # 1 items, linking to normal.middle by default
+replace4: 'bg red1' # 2 items, linking to normal.right by default
+replace5: 'bg red2' # 2 items, linking to normal.right by default
 # visual
-visual.left: 'bg yellow2 bg yellow3' # 2 items
-visual.right: 'bg yellow2 bg yellow3' # 2 items, linking to normal.right by default
-visual.middle: 'yellow2 plomo' # 1 items, linking to normal.middle by default
+visual1: 'bg yellow1' # 2 items
+visual2: 'bg yellow2' # 2 items
+visual3: 'yellow2 yellow3' # 1 items, linking to normal.middle by default
+visual4: 'bg yellow1' # 2 items, linking to normal.right by default
+visual5: 'bg yellow2' # 2 items, linking to normal.right by default
 # tabline
-tabline.left: 'grisclaro grisoscuro' # 1 item
-tabline.tabsel: 'text bg' # 1 item
-tabline.middle: 'grisoscuro plomo' # 1 item
-tabline.right: 'grisclaro grisoscuro' # 1 item
+tablineLeft: 'grisclaro grisoscuro' # 1 item
+tablineSelected: 'bg grisclaro' # 1 item
+tablineMiddle: 'grisoscuro plomo' # 1 item
+tablineRight: 'grisclaro grisoscuro' # 1 item
 
 

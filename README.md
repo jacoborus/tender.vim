@@ -47,13 +47,6 @@ Regular theme:
 colorscheme tender
 ```
 
-Contrast version:
-
-```viml
-colorscheme tendercontrast
-```
-
-
 **Tender** includes [lightline](https://github.com/itchyny/lightline.vim) and [airline](https://github.com/vim-airline/vim-airline) themes, to enable it add the next lines to your vim config:
 
 **lightline:**
@@ -61,7 +54,7 @@ colorscheme tendercontrast
 ```viml
 " enable tender lightline theme
 let g:tender_lightline = 1
-" set lighline theme
+" set lighline theme (inside lightline config)
 let g:lightline = { 'colorscheme': 'tender' }
 ```
 

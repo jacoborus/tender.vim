@@ -25,6 +25,6 @@ colors:
   grisoscuro: '@grey1'
   plomo: '@grey1'
   fondocursor: '@shiny4'
-  bg: '@shiny3'
-  darker: '@shiny2'
+  bg: '@shiny2'
+  darker: '@shiny1'
   darkest: '@shiny1'

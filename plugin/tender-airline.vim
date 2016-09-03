@@ -6,18 +6,18 @@ if exists('g:tender_airline') && g:tender_airline
   let s:normal3 = [ "#b3deef", "#444444", 153, 238 ]
   let g:airline#themes#tender#palette.normal = airline#themes#generate_color_map(s:normal1, s:normal2, s:normal3)
 
-  let s:insert1 = [ "#282828", "#bfc476", 235, 150 ]
-  let s:insert2 = [ "#282828", "#b6c025", 235, 142 ]
-  let s:insert3 = [ "#bfc476", "#444444", 150, 238 ]
+  let s:insert1 = [ "#282828", "#c9d05c", 235, 185 ]
+  let s:insert2 = [ "#282828", "#adba00", 235, 142 ]
+  let s:insert3 = [ "#c9d05c", "#444444", 185, 238 ]
   let g:airline#themes#tender#palette.insert = airline#themes#generate_color_map(s:insert1, s:insert2, s:insert3)
 
   let s:replace1 = [ "#282828", "#f43753", 235, 203 ]
-  let s:replace2 = [ "#282828", "#c12038", 235, 125 ]
+  let s:replace2 = [ "#282828", "#c5152f", 235, 160 ]
   let s:replace3 = [ "#f43753", "#444444", 203, 238 ]
   let g:airline#themes#tender#palette.replace = airline#themes#generate_color_map(s:replace1, s:replace2, s:replace3)
 
   let s:visual1 = [ "#282828", "#ffc24b", 235, 215 ]
-  let s:visual2 = [ "#282828", "#9b7425", 235, 3 ]
+  let s:visual2 = [ "#282828", "#715b2f", 235, 58 ]
   let s:visual3 = [ "#ffc24b", "#444444", 215, 238 ]
   let g:airline#themes#tender#palette.visual = airline#themes#generate_color_map(s:visual1, s:visual2, s:visual3)
 

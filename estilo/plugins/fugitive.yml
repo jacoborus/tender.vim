@@ -7,5 +7,5 @@ FugitiveblameOriginalFile: '' # String
 FugitiveblameOriginalLineNumber: '' #
 FugitiveblameShort: '' # FugitiveblameDelimiter
 FugitiveblameDelimiter: '' # Delimiter
-FugitiveblameNotCommittedYet: 'yellow1' # Comment
+FugitiveblameNotCommittedYet: 'yellow2' # Comment
 
