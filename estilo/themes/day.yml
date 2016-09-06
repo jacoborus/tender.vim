@@ -2,21 +2,21 @@ name: 'tenderday'
 background: 'light'
 colors:
   # reds
-  red1: '@carmine'
-  red2: '@wine'
-  red3: '@cherry'
+  red1: '@cherryday'
+  red2: '@carmine'
+  red3: '@wineday'
   # blues
-  blue1: '@night'
-  blue2: '@ocean'
-  blue3: '@sky'
+  blue1: '@skyday'
+  blue2: '@oceanday'
+  blue3: '@nightday'
   # greens
-  green1: '@fern'
-  green2: '@sushi'
-  green3: '@willow'
+  green1: '@willowday'
+  green2: '@sushiday'
+  green3: '@fernday'
   # yellows
-  yellow1: '@toffee'
-  yellow2: '@toffee'
-  yellow3: '@yolk'
+  yellow1: '@strawday'
+  yellow2: '@yolkday'
+  yellow3: '@toffeeday'
   # greys
   highlighted: '@dark4'
   text: '@grey4'
