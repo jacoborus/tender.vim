@@ -47,7 +47,7 @@ hi SpellCap guifg=#f9a400 ctermfg=214 guibg=NONE ctermbg=NONE gui=NONE cterm=NON
 hi SpellRare guifg=#15729a ctermfg=24 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi StatusLine guifg=#eeeeee ctermfg=255 guibg=#15729a ctermbg=24 gui=bold cterm=bold
 hi StatusLineNC guifg=#eeeeee ctermfg=255 guibg=#999999 ctermbg=246 gui=bold cterm=bold
-hi TabLine guifg=#7f7f7f ctermfg=8 guibg=#999999 ctermbg=246 gui=NONE cterm=NONE
+hi TabLine guifg=#999999 ctermfg=246 guibg=#999999 ctermbg=246 gui=NONE cterm=NONE
 hi TabLineFill guifg=NONE ctermfg=NONE guibg=#999999 ctermbg=246 gui=NONE cterm=NONE
 hi TabLineSel guifg=#a3af00 ctermfg=142 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi Title guifg=#42add7 ctermfg=74 guibg=NONE ctermbg=NONE gui=bold cterm=bold

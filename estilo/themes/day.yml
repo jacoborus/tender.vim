@@ -20,8 +20,8 @@ colors:
   # greys
   highlighted: '@dark4'
   text: '@grey4'
-  grisclaro: '@grey3'
-  gris: '@grey2'
+  grisclaro: '@grey2'
+  gris: '@grey1'
   grisoscuro: '@grey1'
   plomo: '@grey1'
   fondocursor: '@shiny4'

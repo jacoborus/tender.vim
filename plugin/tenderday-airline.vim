@@ -21,8 +21,8 @@ if exists('g:tender_airline') && g:tender_airline
   let s:visual3 = [ "#f9a400", "#999999", 214, 246 ]
   let g:airline#themes#tenderday#palette.visual = airline#themes#generate_color_map(s:visual1, s:visual2, s:visual3)
 
-  let s:inactive1 = [ "#666666", "#999999", 242, 246 ]
-  let s:inactive2 = [ "#666666", "#999999", 242, 246 ]
-  let s:inactive3 = [ "#666666", "#999999", 242, 246 ]
+  let s:inactive1 = [ "#7f7f7f", "#999999", 8, 246 ]
+  let s:inactive2 = [ "#7f7f7f", "#999999", 8, 246 ]
+  let s:inactive3 = [ "#7f7f7f", "#999999", 8, 246 ]
   let g:airline#themes#tenderday#palette.inactive = airline#themes#generate_color_map(s:inactive1, s:inactive2, s:inactive3)
 endif
