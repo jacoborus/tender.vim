@@ -1,5 +1,6 @@
 version: '0.10.0'
 author: 'Jacobo Tabernero'
+name: 'tender'
 website: 'https://github/com/jacoborus/tender.vim'
 license: 'MIT'
 description: 'A true color colorscheme for Vim and its ecosystem. (with 256 colors fallback)'

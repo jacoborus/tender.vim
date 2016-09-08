@@ -1,4 +1,4 @@
-if exists('g:undefined_lightline') && g:undefined_lightline
+if exists('g:tender_lightline') && g:tender_lightline
   let s:p = {"normal": {}, "inactive": {}, "insert": {}, "replace": {}, "visual": {}, "tabline": {}}
   let s:p.normal.left = [[["#d1d1d1", 252], ["#42add7", 74]], [["#d1d1d1", 252], ["#15729a", 24]]]
   let s:p.normal.middle = [[["#42add7", 74], ["#9dbecc", 146]]]

@@ -1,4 +1,4 @@
-if exists('g:undefined_airline') && g:undefined_airline
+if exists('g:tender_airline') && g:tender_airline
   let g:airline#themes#tender#palette = {}
 
   let s:normal1 = [ "#282828", "#b3deef", 235, 153 ]
