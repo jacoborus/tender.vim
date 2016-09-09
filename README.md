@@ -106,4 +106,4 @@ Clone the repo and install dependencies with nodejs, then follow [Estilo instruc
 
 ---
 
-© 2016 [jacoborus](https://github.com/jacoborus) - Released under [MIT License](https://raw.github.com/jacoborus/nanobar/master/LICENSE)
+© 2016 [jacoborus](https://jacoborus.codes) - Released under [MIT License](https://raw.github.com/jacoborus/nanobar/master/LICENSE)
