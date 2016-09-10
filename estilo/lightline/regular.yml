@@ -7,11 +7,11 @@ normal5: 'bg blue2' # 2 items
 normalError: 'bg red1' # 1 item
 normalWarning: 'bg yellow2' # 1 item
 # inactive
-inactive1:  'grisclaro grisoscuro' # 2 items
-inactive2:  'grisclaro grisoscuro' # 2 items
-inactive3: 'grisclaro plomo' # 1 item, linking to normal.middle by default
-inactive4: 'grisclaro grisoscuro' # 2 items, linking to normal.right by default
-inactive5: 'grisclaro grisoscuro' # 2 items, linking to normal.right by default
+inactive1:  'gandalf grey2' # 2 items
+inactive2:  'gandalf grey2' # 2 items
+inactive3: 'gandalf grey3' # 1 item, linking to normal.middle by default
+inactive4: 'gandalf grey2' # 2 items, linking to normal.right by default
+inactive5: 'gandalf grey2' # 2 items, linking to normal.right by default
 # insert
 insert1: 'bg green1' # 2 items
 insert2: 'bg green2' # 2 items
@@ -31,9 +31,10 @@ visual3: 'yellow2 yellow3' # 1 items, linking to normal.middle by default
 visual4: 'bg yellow1' # 2 items, linking to normal.right by default
 visual5: 'bg yellow2' # 2 items, linking to normal.right by default
 # tabline
-tablineLeft: 'grisclaro grisoscuro' # 1 item
-tablineSelected: 'bg grisclaro' # 1 item
-tablineMiddle: 'grisoscuro plomo' # 1 item
-tablineRight: 'grisclaro grisoscuro' # 1 item
+tablineLeft: 'gandalf grey2' # 1 item
+tablineSelected: 'bg gandalf' # 1 item
+tablineMiddle: 'grey2 grey3' # 1 item
+tablineRight: 'gandalf grey2' # 1 item
+
 
 

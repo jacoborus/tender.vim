@@ -14,14 +14,19 @@ green3: '#6a6b3f'
 yellow1: '#d3b987'
 yellow2: '#ffc24b'
 yellow3: '#715b2f'
-# greys
+
+# whites
 highlighted: '#ffffff'
 text: '#eeeeee'
-grisclaro: '#bbbbbb'
-gris: '#999999'
-grisoscuro: '#666666'
-plomo: '#444444'
-fondocursor: '#323232'
+gandalf: '#bbbbbb'
+
+# greys
+grey1: '#999999'
+grey2: '#666666'
+grey3: '#444444'
+
+shadow: '#323232'
 bg: '#282828'
+
 darker: '#1d1d1d'
-darkest: '#0b0b0b'
+darkest: '#040404'
