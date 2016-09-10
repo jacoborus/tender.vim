@@ -5,7 +5,7 @@ cssTagName: 'green2' # Statement
 cssDeprecated: '' # Error
 cssSelectorOp: '' # Special
 cssSelectorOp2: '' # Special
-cssAttrComma: 'yellow2' # Special
+cssAttrComma: 'text' # Special
 cssAnimationProp: '' # cssProp
 cssBackgroundProp: 'blue1' # cssProp
 cssBorderProp: 'blue1' # cssProp
@@ -110,7 +110,7 @@ cssFontDescriptorProp: '' # cssProp
 cssFontDescriptorAttr: '' # cssAttr
 cssUnicodeRange: '' # Constant
 cssClassName: 'green1' # Function
-cssClassNameDot: 'blue1' # Function
+cssClassNameDot: 'text' # Function
 cssProp: 'blue1' # StorageClass
 cssAttr: 'text' # Constant
 cssUnitDecorators: 'text' # Number
