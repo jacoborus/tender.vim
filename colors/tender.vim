@@ -1,5 +1,5 @@
 "
-" tender v0.11.4
+" tender v0.12.0
 " A 24bit colorscheme for Vim, Airline and Lightline
 " author: Jacobo Tabernero
 " license: MIT
