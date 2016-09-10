@@ -25,10 +25,10 @@ replace3: 'bg red1' # 1 items, linking to normal.middle by default
 replace4: 'red1 red3' # 2 items, linking to normal.right by default
 replace5: 'bg red2' # 2 items, linking to normal.right by default
 # visual
-visual1: 'yellow2 yellow3' # 2 items
+visual1: 'yellow1 yellow3' # 2 items
 visual2: 'bg yellow2' # 2 items
 visual3: 'bg yellow1' # 1 items, linking to normal.middle by default
-visual4: 'yellow2 yellow3' # 2 items, linking to normal.right by default
+visual4: 'yellow1 yellow3' # 2 items, linking to normal.right by default
 visual5: 'bg yellow2' # 2 items, linking to normal.right by default
 # tabline
 tablineLeft: 'gandalf grey2' # 1 item
