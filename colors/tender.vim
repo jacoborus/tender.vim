@@ -1,5 +1,5 @@
 "
-" tender v0.11.2
+" tender v0.11.3
 " A 24bit colorscheme for Vim, Airline and Lightline
 " author: Jacobo Tabernero
 " license: MIT
@@ -21,8 +21,8 @@ hi link CursorColumn CursorLine
 hi CursorLine guifg=NONE ctermfg=NONE guibg=#323232 ctermbg=236 gui=NONE cterm=NONE
 hi CursorLineNr guifg=#73cef4 ctermfg=81 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Directory guifg=#b3deef ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi DiffAdd guifg=NONE ctermfg=NONE guibg=#6a6b3f ctermbg=242 gui=NONE cterm=NONE
-hi DiffChange guifg=NONE ctermfg=NONE guibg=#44778d ctermbg=66 gui=NONE cterm=NONE
+hi DiffAdd guifg=NONE ctermfg=NONE guibg=#464632 ctermbg=238 gui=NONE cterm=NONE
+hi DiffChange guifg=NONE ctermfg=NONE guibg=#335261 ctermbg=239 gui=NONE cterm=NONE
 hi DiffDelete guifg=#f43753 ctermfg=203 guibg=#79313c ctermbg=237 gui=NONE cterm=NONE
 hi DiffText guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=reverse cterm=reverse
 hi ErrorMsg guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=reverse cterm=reverse
