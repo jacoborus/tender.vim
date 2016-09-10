@@ -41,15 +41,13 @@ Fix for MacVim:
 let macvim_skip_colorscheme=1
 ```
 
-Regular theme:
+Use colorscheme:
 
 ```viml
 colorscheme tender
 ```
 
-**Tender** includes [lightline](https://github.com/itchyny/lightline.vim) and [airline](https://github.com/vim-airline/vim-airline) themes, to enable it add the next lines to your vim config:
-
-**lightline:**
+Use [lightline](https://github.com/itchyny/lightline.vim) theme:
 
 ```viml
 " enable tender lightline theme
@@ -58,7 +56,7 @@ let g:tender_lightline = 1
 let g:lightline = { 'colorscheme': 'tender' }
 ```
 
-**airline:**
+Use [airline](https://github.com/vim-airline/vim-airline) theme:
 
 ```viml
 " enable tender airline theme
@@ -68,27 +66,6 @@ let g:airline_theme = 'tender'
 ```
 
 
-## Features:
-
-- dark background
-- tender colors
-- minimal interface
-- lightline theme
-- airline theme
-- fine tune colorization for languages and plugins:
-  - javascript
-  - css
-  - markdown
-  - yaml
-  - json
-  - gitcommit
-  - NERDTree
-  - GitGutter
-  - pangloss/javascript
-  - pangloss/javascript
-  - jelera/vim-javascript-syntax
-  - ... more coming soon (contributions are welcome)
-
 ## Screenshots
 
 ![javascript](https://cloud.githubusercontent.com/assets/829859/15333458/01b57d62-1c6a-11e6-8b2f-94ee49717922.png)
@@ -97,10 +74,6 @@ let g:airline_theme = 'tender'
 ![lightline](https://cloud.githubusercontent.com/assets/829859/15333539/57e8d710-1c6a-11e6-9809-ef5768ca4103.png)
 ![gitcommit](https://cloud.githubusercontent.com/assets/829859/15333549/6372bb00-1c6a-11e6-901c-45dbcfc022c5.png)
 
-
-## Contribute
-
-Clone the repo and install dependencies with nodejs, then follow [Estilo instructions](https://github.com/jacoborus/estilo/#step-by-step)
 
 <br><br>
 
