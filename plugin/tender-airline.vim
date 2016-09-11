@@ -1,7 +1,7 @@
 if exists('g:tender_airline') && g:tender_airline
   let g:airline#themes#tender#palette = {}
 
-  let s:normal1 = [ "#282828", "#b3deef", 235, 153 ]
+  let s:normal1 = [ "#335261", "#b3deef", 239, 153 ]
   let s:normal2 = [ "#282828", "#73cef4", 235, 81 ]
   let s:normal3 = [ "#b3deef", "#444444", 153, 238 ]
   let g:airline#themes#tender#palette.normal = airline#themes#generate_color_map(s:normal1, s:normal2, s:normal3)

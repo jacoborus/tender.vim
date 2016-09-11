@@ -1,8 +1,8 @@
 # normal
-normal1: 'bg blue1' # 2 items
+normal1: 'blue3 blue1' # 2 items
 normal2: 'bg blue2' # 2 items
 normal3: 'blue1 blue3' # 1 item
-normal4: 'bg blue1' # 2 items
+normal4: 'blue3 blue1' # 2 items
 normal5: 'bg blue2' # 2 items
 normalError: 'bg red1' # 1 item
 normalWarning: 'bg yellow2' # 1 item
@@ -13,22 +13,22 @@ inactive3: 'gandalf grey3' # 1 item, linking to normal.middle by default
 inactive4: 'gandalf grey2' # 2 items, linking to normal.right by default
 inactive5: 'gandalf grey2' # 2 items, linking to normal.right by default
 # insert
-insert1: 'bg green1' # 2 items
+insert1: 'green3 green1' # 2 items
 insert2: 'bg green2' # 2 items
 insert3: 'green1 green3' # 1 items, linking to normal.middle by default
-insert4: 'bg green1' # 2 items, linking to normal.right by default
+insert4: 'green3 green1' # 2 items, linking to normal.right by default
 insert5: 'bg green2' # 2 items, linking to normal.right by default
 # replace
-replace1: 'bg red1' # 2 items
+replace1: 'red3 red1' # 2 items
 replace2: 'bg red2' # 2 items
 replace3: 'red1 red3' # 1 items, linking to normal.middle by default
-replace4: 'bg red1' # 2 items, linking to normal.right by default
+replace4: 'red3 red1' # 2 items, linking to normal.right by default
 replace5: 'bg red2' # 2 items, linking to normal.right by default
 # visual
-visual1: 'bg yellow1' # 2 items
+visual1: 'yellow3 yellow1' # 2 items
 visual2: 'bg yellow2' # 2 items
-visual3: 'yellow2 yellow3' # 1 items, linking to normal.middle by default
-visual4: 'bg yellow1' # 2 items, linking to normal.right by default
+visual3: 'yellow1 yellow3' # 1 items, linking to normal.middle by default
+visual4: 'yellow3 yellow1' # 2 items, linking to normal.right by default
 visual5: 'bg yellow2' # 2 items, linking to normal.right by default
 # tabline
 tablineLeft: 'gandalf grey2' # 1 item
