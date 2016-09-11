@@ -43,7 +43,7 @@ Use colorscheme:
 colorscheme tender
 ```
 
-Use [lightline](https://github.com/itchyny/lightline.vim) themes ('tender' and 'tenderplus'):
+Use [lightline](https://github.com/itchyny/lightline.vim) themes (`tender` and `tenderplus`):
 
 ```viml
 " enable tender lightline theme
@@ -52,7 +52,7 @@ let g:tender_lightline = 1
 let g:lightline = { 'colorscheme': 'tender' }
 ```
 
-Use [airline](https://github.com/vim-airline/vim-airline) themes ('tender' and 'tenderplus'):
+Use [airline](https://github.com/vim-airline/vim-airline) themes (`tender` and `tenderplus`):
 
 ```viml
 " enable tender airline theme

@@ -13,7 +13,7 @@ gitcommitUnmergedType: '' # gitcommitType
 gitcommitType: '' # Type
 gitcommitNoChanges: '' # gitcommitHeader
 gitcommitHeader: 'blue1' # PreProc
-gitcommitUntrackedFile: 'red2' # gitcommitFile
+gitcommitUntrackedFile: 'yellow2' # gitcommitFile
 gitcommitDiscardedFile: 'red1' # gitcommitFile
 gitcommitSelectedFile: 'green1' # gitcommitFile
 gitcommitUnmergedFile: '' # gitcommitFile
