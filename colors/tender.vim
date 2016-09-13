@@ -1,5 +1,5 @@
 "
-" tender 0.12.5
+" tender 0.12.6
 " A 24bit colorscheme for Vim, Airline and Lightline
 " https://github/com/jacoborus/tender.vim
 " author: Jacobo Tabernero

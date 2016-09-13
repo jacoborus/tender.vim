@@ -7,9 +7,9 @@ inactive1:  'gandalf grey2' # 2 items
 inactive2: 'gandalf grey2' # 2 items, linking to normal.right by default
 inactive3: 'gandalf grey3' # 1 item, linking to normal.middle by default
 # insert
-insert1: 'bg green1' # 2 items
+insert1: 'green4 green1' # 2 items
 insert2: 'bg green2' # 2 items, linking to normal.right by default
-insert3: 'green1 grey3' # 1 items, linking to normal.middle by default
+insert3: 'green1 green4' # 1 items, linking to normal.middle by default
 # replace
 replace1: 'bg red1' # 2 items
 replace2: 'bg red2' # 2 items, linking to normal.right by default

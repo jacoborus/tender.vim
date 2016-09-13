@@ -1,8 +1,8 @@
 # normal
-normal1: 'blue3 blue1' # 2 items
+normal1: 'blue4 blue1' # 2 items
 normal2: 'bg blue2' # 2 items
 normal3: 'blue1 blue3' # 1 item
-normal4: 'blue3 blue1' # 2 items
+normal4: 'blue4 blue1' # 2 items
 normal5: 'bg blue2' # 2 items
 normalError: 'bg red1' # 1 item
 normalWarning: 'bg yellow2' # 1 item
@@ -13,10 +13,10 @@ inactive3: 'gandalf grey3' # 1 item, linking to normal.middle by default
 inactive4: 'gandalf grey2' # 2 items, linking to normal.right by default
 inactive5: 'gandalf grey2' # 2 items, linking to normal.right by default
 # insert
-insert1: 'green3 green1' # 2 items
+insert1: 'green4 green1' # 2 items
 insert2: 'bg green2' # 2 items
 insert3: 'green1 green3' # 1 items, linking to normal.middle by default
-insert4: 'green3 green1' # 2 items, linking to normal.right by default
+insert4: 'green4 green1' # 2 items, linking to normal.right by default
 insert5: 'bg green2' # 2 items, linking to normal.right by default
 # replace
 replace1: 'red3 red1' # 2 items
