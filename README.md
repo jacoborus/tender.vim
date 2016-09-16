@@ -42,7 +42,7 @@ Enable true color in vim v7.4.1770 or newer (Vim 8 doesn't need this):
 set guicolors
 ```
 
-Fix for MacVim:
+Fix for MacVim ([see issue](https://github.com/jacoborus/tender.vim/issues/9)):
 
 ```viml
 let macvim_skip_colorscheme=1
