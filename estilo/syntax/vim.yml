@@ -13,8 +13,8 @@ vimBracket: '' #  Delimiter
 vimCmplxRepeat: '' #  SpecialChar
 vimCommand: '' #  Statement
 vimComment: '' #  Comment
-vimCommentString: '' #  vimString
-vimCommentTitle: 'green2' # PreProc
+vimCommentString: 'yellow3' #  vimString
+vimCommentTitle: 'blue3' # PreProc
 vimCondHL: '' # vimCommand
 vimContinue: '' # Special
 vimCtrlChar: '' # SpecialChar

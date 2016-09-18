@@ -57,17 +57,13 @@ colorscheme tender
 Use [lightline](https://github.com/itchyny/lightline.vim) themes (`tender` and `tenderplus`):
 
 ```viml
-" enable tender lightline theme
-let g:tender_lightline = 1
-" set lighline theme (inside lightline config)
+" set lighline theme inside lightline config
 let g:lightline = { 'colorscheme': 'tender' }
 ```
 
 Use [airline](https://github.com/vim-airline/vim-airline) themes (`tender` and `tenderplus`):
 
 ```viml
-" enable tender airline theme
-let g:tender_airline = 1
 " set airline theme
 let g:airline_theme = 'tender'
 ```
