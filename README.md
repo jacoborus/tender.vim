@@ -30,26 +30,6 @@ Plugin 'jacoborus/tender'
 
 Once your plugin is installed you can set the color scheme in your `.vimrc` or `init.vim`
 
-Enable true color in neovim:
-
-```viml
-set termguicolors
-```
-
-Enable true color in vim v7.4.1770 or newer (Vim 8 doesn't need this):
-
-```viml
-set guicolors
-```
-
-Fix for MacVim ([see issue](https://github.com/jacoborus/tender.vim/issues/9)):
-
-```viml
-let macvim_skip_colorscheme=1
-```
-
-Use colorscheme:
-
 ```viml
 colorscheme tender
 ```
@@ -68,6 +48,17 @@ Use [airline](https://github.com/vim-airline/vim-airline) themes (`tender` and `
 let g:airline_theme = 'tender'
 ```
 
+gVim and vim 8+ have 24 bit colorschemes enabled by default. Neovim requires this line in your config:
+
+```viml
+set termguicolors
+```
+
+Fix for MacVim ([see issue](https://github.com/jacoborus/tender.vim/issues/9)):
+
+```viml
+let macvim_skip_colorscheme=1
+```
 
 <br><br>
 
