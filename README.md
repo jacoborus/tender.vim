@@ -66,6 +66,11 @@ Fix for MacVim ([see issue](https://github.com/jacoborus/tender.vim/issues/9)):
 let macvim_skip_colorscheme=1
 ```
 
+Copy color to vim if no exist `~/.vim/colors/`, create folder.
+```
+ cp ~/.vim/bundle/tender/colors/tender.vim ~/.vim/colors/tender.vim
+```
+
 <br><br>
 
 ---
