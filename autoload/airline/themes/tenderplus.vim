@@ -37,9 +37,9 @@ let g:airline#themes#tenderplus#palette.inactive = airline#themes#generate_color
 if !get(g:, 'loaded_ctrlp', 0)
   finish
 endif
-let s:CP1 = [ "", "", ,  ]
-let s:CP2 = [ "", "", ,  ]
-let s:CP3 = [ "", "", ,  ]
+let s:CP1 = [ "#b3deef", "#335261", 153, 239, '' ]
+let s:CP2 = [ "#282828", "#73cef4", 235, 81, '' ]
+let s:CP3 = [ "#44778d", "#b3deef", 66, 153, 'bold' ]
 
 let g:airline#themes#tenderplus#palette.ctrlp = airline#extensions#ctrlp#generate_color_map(s:CP1, s:CP2, s:CP3)
 
