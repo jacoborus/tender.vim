@@ -21,11 +21,11 @@ Install manually or use a package manager:
 
 ```viml
 " vim-plug
-Plug 'jacoborus/tender'
+Plug 'jacoborus/tender.vim'
 " NeoBundle
-NeoBundle 'jacoborus/tender'
+NeoBundle 'jacoborus/tender.vim'
 " Vundle
-Plugin 'jacoborus/tender'
+Plugin 'jacoborus/tender.vim'
 ```
 
 Once your plugin is installed you can set the color scheme in your `.vimrc` or `init.vim`
