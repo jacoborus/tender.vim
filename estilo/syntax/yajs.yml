@@ -37,6 +37,7 @@ javascriptDefault: '' # javascriptCase
 javascriptExportDefault: '' # javascriptCase
 javascriptBranch: '' # Conditional
 javascriptIdentifier: '' # Structure
+javascriptIdentifierName: ''
 javascriptVariable: '' # Identifier
 javascriptRepeat: 'green1' # Repeat
 javascriptForComprehension: '' # Repeat

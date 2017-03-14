@@ -4,7 +4,7 @@ jsonTest: '' # Label
 jsonEscape: 'blue2' # Special
 jsonNumber: 'yellow2' # Number
 jsonBraces: 'text' # Delimiter
-jsonNull: '' # Function
+jsonNull: 'yellow2' # Function
 jsonBoolean: 'yellow2' # Boolean
 jsonKeyword: '' # Label
 jsonKeywordMatch: 'red1' # Label

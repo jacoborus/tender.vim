@@ -10,4 +10,4 @@ stylusEscape: '' # Special
 stylusId: 'green1' # Identifier
 stylusIdChar: 'blue1' # Special
 cssVisualVal: 'text'
-
+stylusImport: 'yellow2'
