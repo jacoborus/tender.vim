@@ -1,0 +1,12 @@
+# mhinz/vim-signify
+SignifyLineAdd: ''
+SignifyLineDelete: ''
+SignifyLineDeleteFirstLine: ''
+SignifyLineChange: ''
+SignifyLineChangeDelete: ''
+
+SignifySignAdd: '@GitGutterAdd'
+SignifySignDelete: '@GitGutterDelete'
+SignifySignDeleteFirstLine: '@SignifySignDelete'
+SignifySignChange: '@GitGutterChange'
+SignifySignChangeDelete: '@GitGutterChangeDelete'
