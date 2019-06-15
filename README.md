@@ -71,9 +71,10 @@ Copy color to vim if no exist `~/.vim/colors/`, create folder.
  cp ~/.vim/bundle/tender/colors/tender.vim ~/.vim/colors/tender.vim
 ```
 
-### Alacritty terminal theme
+## Terminal themes
 
 [Tender Alacritty](https://github.com/huyvohcmc/tender-alacritty) by [@huyvohcmc](https://github.com/huyvohcmc)
+[Tender iTerm2](https://github.com/tombell/tender-iterm2) by [@tombell](https://github.com/tombell)
 
 <br><br>
 
