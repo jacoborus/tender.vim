@@ -4,7 +4,7 @@
 " URL:https://github/com/jacoborus/tender.vim
 " Author: Jacobo Tabernero http://jacoborus.codes
 " License: MIT
-" Last Change: 2019/06/15 23:29
+" Last Change: 2020/02/10 20:44
 " ============================================================
 
 let g:airline#themes#tenderplus#palette = {}
