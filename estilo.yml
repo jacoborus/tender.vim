@@ -1,4 +1,4 @@
-version: '0.16.5'
+version: '0.17.0'
 author: 'Jacobo Tabernero http://jacoborus.codes'
 name: 'tender'
 url: 'https://github/com/jacoborus/tender.vim'
