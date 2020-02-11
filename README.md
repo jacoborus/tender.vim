@@ -73,8 +73,9 @@ Copy color to vim if no exist `~/.vim/colors/`, create folder.
 
 ## Terminal themes
 
-[Tender Alacritty](https://github.com/huyvohcmc/tender-alacritty) by [@huyvohcmc](https://github.com/huyvohcmc)
-[Tender iTerm2](https://github.com/tombell/tender-iterm2) by [@tombell](https://github.com/tombell)
+- [Tender Alacritty](https://github.com/huyvohcmc/tender-alacritty) by [@huyvohcmc](https://github.com/huyvohcmc)
+- [Tender iTerm2](https://github.com/tombell/tender-iterm2) by [@tombell](https://github.com/tombell)
+- [Tender xresources](https://github.com/pebeto/tender-xresources) by [@pebeto](https://github.com/pebeto)
 
 <br><br>
 
