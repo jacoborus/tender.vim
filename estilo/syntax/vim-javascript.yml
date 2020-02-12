@@ -27,7 +27,7 @@ jsConditional: '' # Conditional
 jsBranch: '' # Conditional
 jsLabel: '' # Label
 jsReturn: '' # Statement
-jsRepeat: '' # Repeat
+jsRepeat: 'green1' # Repeat
 jsDo: '' # Repeat
 jsStatement: '' # Statement
 jsException: '' # Exception
