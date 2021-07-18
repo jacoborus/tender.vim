@@ -9,6 +9,7 @@ blue2: '#73cef4'
 blue3: '#44778d'
 blue4: '#335261'
 blue5: '#293b44'
+blue6: '#1B2327'
 
 # greens
 green1: '#c9d05c'
@@ -33,7 +34,7 @@ grey2: '#666666'
 grey3: '#444444'
 
 shadow: '#323232'
-bg: '#282828'
+bg: '#1B2327'
 
 dark: '#202020'
 darker: '#1d1d1d'
