@@ -80,6 +80,7 @@ Copy color to vim if no exist `~/.vim/colors/`, create folder.
 - [Tender iTerm2](https://github.com/tombell/tender-iterm2) by [@tombell](https://github.com/tombell)
 - [Tender xresources](https://github.com/pebeto/tender-xresources) by [@pebeto](https://github.com/pebeto)
 - [Tender Blink Shell](https://github.com/Rafaelcv7/Jacoborus-Tendertheme) by [@Rafaelcv7](https://github.com/Rafaelcv7)
+- [Tender WezTerm](https://github.com/kyoheiu/tender-wezterm) by [@kyoheiu](https://github.com/kyoheiu)
 
 <br><br>
 
