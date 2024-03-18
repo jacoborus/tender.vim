@@ -1,29 +1,30 @@
-version: '0.17.3'
-author: 'Jacobo Tabernero http://jacoborus.codes'
-name: 'tender'
-url: 'https://github/com/jacoborus/tender.vim'
-license: 'MIT'
-description: 'A 24bit colorscheme for Vim, Airline and Lightline'
+---
+version: 0.17.4
+author: Jacobo Tabernero http://jacoborus.codes
+name: tender
+url: https://github/com/jacoborus/tender.vim
+license: MIT
+description: A 24bit colorscheme for Vim, Airline and Lightline
 colorschemes:
-  - name: 'tender'
-    background: 'dark'
-    palette: 'tender'
-    description: 'A dark and fresh color scheme for vim'
+  - name: tender
+    background: dark
+    palette: tender
+    description: A dark and fresh color scheme for vim
 airline:
-  - name: 'tender'
-    palette: 'tender'
-    style: 'regular'
-    description: 'Tender Airline theme'
-  - name: 'tenderplus'
-    palette: 'tender'
-    style: 'plus'
-    description: 'Tender Plus Airline theme'
+  - name: tender
+    palette: tender
+    style: regular
+    description: Tender Airline theme
+  - name: tenderplus
+    palette: tender
+    style: plus
+    description: Tender Plus Airline theme
 lightline:
-  - name: 'tender'
-    palette: 'tender'
-    style: 'regular'
-    description: 'Tender Lightline theme'
-  - name: 'tenderplus'
-    palette: 'tender'
-    style: 'plus'
-    description: 'Tender Lightline theme'
+  - name: tender
+    palette: tender
+    style: regular
+    description: Tender Lightline theme
+  - name: tenderplus
+    palette: tender
+    style: plus
+    description: Tender Lightline theme
