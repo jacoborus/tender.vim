@@ -2,7 +2,7 @@
 version: 0.17.5
 author: Jacobo Tabernero http://jacoborus.codes
 name: tender
-url: https://github/com/jacoborus/tender.vim
+url: https://github.com/jacoborus/tender.vim
 license: MIT
 description: A 24bit colorscheme for Vim, Airline and Lightline
 colorschemes:
