@@ -2,7 +2,7 @@
 " tender v0.17.5
 "
 " A dark and fresh color scheme for vim
-" URL: https://github/com/jacoborus/tender.vim
+" URL: https://github.com/jacoborus/tender.vim
 " Author: Jacobo Tabernero http://jacoborus.codes
 " License: MIT
 ""

@@ -1,8 +1,8 @@
 ""
-" Lightline_theme: tender v0.17.4
+" Lightline_theme: tender v0.17.5
 "
 " Tender Lightline theme
-" URL: https://github/com/jacoborus/tender.vim
+" URL: https://github.com/jacoborus/tender.vim
 " Author: Jacobo Tabernero http://jacoborus.codes
 " License: MIT
 ""
