@@ -1,6 +1,6 @@
 ---
-version: 0.17.5
-author: Jacobo Tabernero http://jacoborus.codes
+version: 0.18.0
+author: Jacobo Tabernero Rey http://jacobo.codes
 name: tender
 url: https://github.com/jacoborus/tender.vim
 license: MIT
@@ -10,6 +10,7 @@ colorschemes:
     background: dark
     palette: tender
     description: A dark and fresh color scheme for vim
+    neovim_legacy_compat: true
 airline:
   - name: tender
     palette: tender

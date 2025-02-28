@@ -1,14 +1,18 @@
 ""
-" tender v0.17.5
+" tender v0.18.0
 "
 " A dark and fresh color scheme for vim
 " URL: https://github.com/jacoborus/tender.vim
-" Author: Jacobo Tabernero http://jacoborus.codes
+" Author: Jacobo Tabernero Rey http://jacobo.codes
 " License: MIT
 ""
 
 set background=dark
-hi clear
+if has('nvim')
+  source $VIMRUNTIME/colors/vim.lua
+else
+  hi clear
+endif
 
 if exists("syntax_on")
   syntax reset
@@ -26,8 +30,7 @@ let Bold = ""
 if exists('g:tender_bold')
   let Bold = "bold"
 endif
-
-let g:tender_bold = get(g:, '_bold', 0)
+let g:tender_bold = get(g:, 'tender_bold', 0)
 
 hi ColorColumn guifg=NONE ctermfg=NONE guibg=#323232 ctermbg=236 gui=NONE cterm=NONE
 hi CursorColumn guifg=NONE ctermfg=NONE guibg=#323232 ctermbg=236 gui=NONE cterm=NONE
@@ -274,10 +277,12 @@ hi javascriptFuncName guifg=#c9d05c ctermfg=185 guibg=NONE ctermbg=NONE gui=NONE
 hi yamlFlowString guifg=#d3b987 ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi yamlFlowStringDelimiter guifg=#eeeeee ctermfg=255 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi yamlKeyValueDelimiter guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+
 if exists(':TSEnable')
   hi @function guifg=#c9d05c ctermfg=185 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
   hi @keyword guifg=#b3deef ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 endif
+
 if exists(':LspInfo')
   hi @lsp.type.function.typescript guifg=#c9d05c ctermfg=185 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 endif

@@ -1,9 +1,9 @@
 ""
-" Airline_theme: tenderplus v0.17.5
+" Airline_theme: tenderplus v0.18.0
 "
 " Tender Plus Airline theme
 " URL: https://github.com/jacoborus/tender.vim
-" Author: Jacobo Tabernero http://jacoborus.codes
+" Author: Jacobo Tabernero Rey http://jacobo.codes
 " License: MIT
 ""
 
