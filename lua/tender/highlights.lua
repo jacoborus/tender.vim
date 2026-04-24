@@ -9,9 +9,9 @@ function M.setup(p)
     CursorLineNr = { fg = p.blue2 },
     Directory = { fg = p.blue1 },
     DiffAdd = { bg = p.green4 },
-    DiffChange = { bg = p.blue4 },
+    DiffChange = { bg = p.blue5 },
     DiffDelete = { fg = p.red1, bg = p.red3 },
-    DiffText = { reverse = true },
+    DiffText = { bg = p.blue5, underline = true },
     ErrorMsg = { fg = p.red1, reverse = true },
     VertSplit = { fg = p.bg, bg = p.bg },
     WinSeparator = { fg = p.bg, bg = p.bg },
@@ -66,7 +66,10 @@ function M.setup(p)
 
     -- Treesitter (from estilo treesitter.yml - only non-empty overrides)
     ["@function"] = { fg = p.green1 },
-    ["@keyword"] = { fg = p.blue1 },
+    ["@keyword"] = { fg = p.blue2 },
+    ["@keyword.import.typescript"] = { link = "@keyword" },
+    ["@keyword.type.typescript"] = { link = "@function" },
+    -- ["@punctuation.delimiter.typescript"] = { fg = p.red1 },
 
     -- LSP (from estilo lsp.yml)
     ["@lsp.type.function.typescript"] = { fg = p.green1 },

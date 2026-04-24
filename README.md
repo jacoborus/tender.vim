@@ -4,6 +4,7 @@ A 24bit dark colorscheme for Neovim, written in Lua with zero dependencies.
 
 - [Screenshots](#screenshots)
 - [Installation](#installation)
+- [Variants](#variants)
 - [Terminal themes](#terminal-themes)
 
 ## Screenshots
@@ -28,12 +29,26 @@ Then set the colorscheme in your config:
 vim.cmd.colorscheme("tender")
 ```
 
+## Variants
+
+Tender comes with color variants that tint the background with a subtle hue while keeping the same accent colors:
+
+| Variant | Colorscheme | Description |
+|---------|-------------|-------------|
+| Default | `tender` | Original neutral grey backgrounds |
+| Blue | `tender-blue` | Dark blue-tinted backgrounds |
+
+```lua
+vim.cmd.colorscheme("tender-blue")
+```
+
 ### Color palette
 
 The color palette is available as a Lua module for use in your own configs:
 
 ```lua
-local palette = require("tender.palette")
+local palette = require("tender.palette").get()        -- default
+local blue    = require("tender.palette").get("blue")   -- blue variant
 -- palette.red1, palette.blue1, palette.bg, etc.
 ```
 
