@@ -1,0 +1,112 @@
+local M = {}
+
+function M.setup(p)
+  local highlights = {
+    -- Base (from estilo base.yml)
+    ColorColumn = { bg = p.shadow },
+    CursorColumn = { bg = p.shadow },
+    CursorLine = { bg = p.shadow },
+    CursorLineNr = { fg = p.blue2 },
+    Directory = { fg = p.blue1 },
+    DiffAdd = { bg = p.green4 },
+    DiffChange = { bg = p.blue4 },
+    DiffDelete = { fg = p.red1, bg = p.red3 },
+    DiffText = { reverse = true },
+    ErrorMsg = { fg = p.red1, reverse = true },
+    VertSplit = { fg = p.bg, bg = p.bg },
+    WinSeparator = { fg = p.bg, bg = p.bg },
+    Folded = { fg = p.grey2, bg = p.dark },
+    FoldColumn = { fg = p.grey2, bg = p.dark },
+    SignColumn = { fg = p.grey1, bg = p.bg },
+    IncSearch = { fg = p.highlighted, bg = p.darkest, bold = true, reverse = true },
+    LineNr = { fg = p.grey3 },
+    MatchParen = { fg = p.red1, bold = true },
+    NonText = { fg = p.grey3 },
+    Normal = { fg = p.text, bg = p.bg },
+    PMenu = { fg = p.pearl, bg = p.blue4 },
+    PMenuSel = { fg = p.blue4, bg = p.green1 },
+    PmenuSbar = { fg = p.blue4, bg = p.blue4 },
+    PmenuThumb = { fg = p.green1, bg = p.green1 },
+    Question = { fg = p.green1 },
+    Search = { fg = p.highlighted, underline = true, bold = true },
+    SpecialKey = { fg = p.grey3 },
+    SpellBad = { fg = p.red1 },
+    SpellLocal = { fg = p.yellow1 },
+    SpellCap = { fg = p.yellow2 },
+    SpellRare = { fg = p.blue2 },
+    StatusLine = { fg = p.darker, bg = p.grey2, bold = true },
+    StatusLineNC = { fg = p.grey1, bg = p.grey3 },
+    TabLine = { fg = p.grey1, bg = p.grey3 },
+    TabLineFill = { bg = p.grey3 },
+    TabLineSel = { fg = p.green1, bold = true },
+    Title = { fg = p.blue1, bold = true },
+    Visual = { bg = p.blue5, bold = true },
+    VisualNOS = { bg = p.blue5, bold = true },
+    WarningMsg = { fg = p.red1 },
+    WildMenu = { fg = p.bg, bg = p.green1, bold = true },
+    Comment = { fg = p.grey2 },
+    Constant = { fg = p.yellow2 },
+    String = { fg = p.yellow1 },
+    Character = { fg = p.yellow2 },
+    Boolean = { fg = p.yellow2 },
+    Number = { fg = p.yellow2 },
+    Float = { fg = p.yellow2 },
+    Identifier = { fg = p.pearl },
+    Function = { fg = p.blue1 },
+    Statement = { fg = p.blue2 },
+    Conditional = { fg = p.green1 },
+    Operator = { fg = p.red1 },
+    Exception = { fg = p.red1 },
+    PreProc = { fg = p.green1 },
+    Type = { fg = p.blue2 },
+    Special = { fg = p.blue2 },
+    Underlined = { underline = true },
+    Error = { fg = p.text, bg = p.red1 },
+    Todo = { fg = p.red1, bold = true },
+
+    -- Treesitter (from estilo treesitter.yml - only non-empty overrides)
+    ["@function"] = { fg = p.green1 },
+    ["@keyword"] = { fg = p.blue1 },
+
+    -- LSP (from estilo lsp.yml)
+    ["@lsp.type.function.typescript"] = { fg = p.green1 },
+    DiagnosticFloatingError = { fg = p.gandalf },
+
+    -- Diff (from estilo diff.yml - non-empty)
+    diffRemoved = { fg = p.red1 },
+    diffChanged = { fg = p.blue1 },
+    diffAdded = { fg = p.green1 },
+    diffSubname = { fg = p.green2 },
+
+    -- Git (from estilo vim-gitgutter.yml)
+    GitGutterAdd = { fg = p.green1 },
+    GitGutterChange = { fg = p.blue1 },
+    GitGutterDelete = { fg = p.red1 },
+    GitGutterChangeDelete = { fg = p.red1 },
+
+    -- Markdown (from estilo markdown.yml - non-empty)
+    markdownH1 = { fg = p.blue1, bold = true },
+    markdownHeadingRule = { fg = p.red1, bold = true },
+    markdownHeadingDelimiter = { fg = p.red1, bold = true },
+    markdownListMarker = { fg = p.yellow2 },
+    markdownBlockquote = { fg = p.yellow2 },
+    markdownRule = { fg = p.green1 },
+    markdownLinkText = { fg = p.green1 },
+    markdownLinkTextDelimiter = { fg = p.blue1 },
+    markdownLinkDelimiter = { fg = p.blue1 },
+    markdownIdDeclaration = { fg = p.green2 },
+    markdownAutomaticLink = { fg = p.blue2 },
+    markdownUrl = { fg = p.blue2 },
+    markdownUrlTitle = { fg = p.yellow1 },
+    markdownUrlDelimiter = { fg = p.yellow2 },
+    markdownUrlTitleDelimiter = { fg = p.yellow3 },
+    markdownCodeDelimiter = { fg = p.blue2 },
+    markdownCode = { fg = p.yellow1 },
+    markdownEscape = { fg = p.blue2 },
+    markdownError = { fg = p.red1 },
+  }
+
+  return highlights
+end
+
+return M
