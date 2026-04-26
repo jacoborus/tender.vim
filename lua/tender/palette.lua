@@ -15,6 +15,7 @@ local base = {
   green2      = "#9faa00",
   green3      = "#6a6b3f",
   green4      = "#464632",
+  green5      = "#27281c",
 
   yellow1     = "#d3b987",
   yellow2     = "#ffc24b",

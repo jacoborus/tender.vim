@@ -8,7 +8,7 @@ function M.setup(p)
     CursorLine = { bg = p.shadow },
     CursorLineNr = { fg = p.blue2 },
     Directory = { fg = p.blue1 },
-    DiffAdd = { bg = p.green4 },
+    DiffAdd = { bg = p.green5 },
     DiffChange = { bg = p.blue5 },
     DiffDelete = { fg = p.red1, bg = p.red3 },
     DiffText = { bg = p.blue5, underline = true },
