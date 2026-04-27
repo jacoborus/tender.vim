@@ -4,6 +4,7 @@ local base = {
   red1        = "#f43753",
   red2        = "#c5152f",
   red3        = "#79313c",
+  red4        = "#382427",
 
   blue1       = "#b3deef",
   blue2       = "#73cef4",
